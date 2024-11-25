@@ -508,7 +508,7 @@
         },
         "barometer": {
             "average": {
-                "overall": 1005.4
+                "overall": 1005.2
             },
             "max": {
                 "value": 1005.4,
@@ -534,7 +534,7 @@
         },
         "co2": {
             "average": {
-                "overall": 1263.1
+                "overall": 1260.6
             },
             "max": {
                 "value": 1267.0,
@@ -676,7 +676,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1263.1
+                "overall": 1260.6
             },
             "max": {
                 "value": 1267.0,
@@ -767,7 +767,7 @@
         },
         "netatmo_Chitterne_pressure": {
             "average": {
-                "overall": 993.2
+                "overall": 993.1
             },
             "max": {
                 "value": 993.2,
@@ -806,10 +806,16 @@
         },
         "netatmo_Chitterne_rain_total": {
             "average": {
-                "overall": null
+                "overall": 0.0
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 0.0,
+                "when": 1732493236
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1732493236
+            }
         },
         "netatmo_Chitterne_wifi_out": {
             "average": {
@@ -852,11 +858,11 @@
         },
         "netatmo_Chitterne_windDir": {
             "average": {
-                "overall": 154.7
+                "overall": 254.4
             },
             "max": {
-                "value": 353.0,
-                "when": 1732493054
+                "value": 354.0,
+                "when": 1732493236
             },
             "min": {
                 "value": 6.0,
@@ -865,7 +871,7 @@
         },
         "netatmo_Chitterne_windGust": {
             "average": {
-                "overall": 1.5
+                "overall": 1.7
             },
             "max": {
                 "value": 1.9,
@@ -878,7 +884,7 @@
         },
         "netatmo_Chitterne_windGustDir": {
             "average": {
-                "overall": 13.0
+                "overall": 16.5
             },
             "max": {
                 "value": 21.0,
@@ -904,7 +910,7 @@
         },
         "netatmo_Chitterne_wind_battery_vp": {
             "average": {
-                "overall": 5832.7
+                "overall": 5833.4
             },
             "max": {
                 "value": 5834.0,
@@ -956,7 +962,7 @@
         },
         "pressure": {
             "average": {
-                "overall": 993.2
+                "overall": 993.1
             },
             "max": {
                 "value": 993.2,
@@ -985,10 +991,16 @@
         },
         "rain_total": {
             "average": {
-                "overall": null
+                "overall": 0.0
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 0.0,
+                "when": 1732493236
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1732493236
+            }
         },
         "wetbulb": {
             "average": {
@@ -1018,11 +1030,11 @@
         },
         "windDir": {
             "average": {
-                "overall": 0.4
+                "overall": 177.2
             },
             "max": {
-                "value": 353.0,
-                "when": 1732493054
+                "value": 354.0,
+                "when": 1732493236
             },
             "min": {
                 "value": 0.4,
@@ -1044,7 +1056,7 @@
         },
         "windGustDir": {
             "average": {
-                "overall": 21.0
+                "overall": 20.5
             },
             "max": {
                 "value": 21.0,
@@ -1082,7 +1094,7 @@
             }
         },
         "windrun": {
-            "value": 0.1
+            "value": 0.2
         },
         "zambretti": {
             "average": "I"

@@ -138,12 +138,12 @@
         "cloudbase": [
             322.5,
             308.5,
-            279.3
+            279.0
         ],
         "co2": [
             1135.4,
             1089.9,
-            1030.4
+            1028.5
         ],
         "dateTime": [
             1733097600,
@@ -193,12 +193,12 @@
         "netatmo_Chitterne_Wifi_in": [
             60.6,
             59.8,
-            60.1
+            60.0
         ],
         "netatmo_Chitterne_co2": [
             1135.4,
             1089.9,
-            1030.4
+            1028.5
         ],
         "netatmo_Chitterne_inHumidity": [
             64.0,
@@ -218,12 +218,12 @@
         "netatmo_Chitterne_outHumidity": [
             88.8,
             89.5,
-            90.8
+            90.9
         ],
         "netatmo_Chitterne_outTemp": [
             11.2,
             10.7,
-            10.4
+            10.3
         ],
         "netatmo_Chitterne_out_battery_vp": [
             5787.7,
@@ -243,7 +243,7 @@
         "netatmo_Chitterne_rain_battery_vp": [
             5225.8,
             5227.6,
-            5228.6
+            5228.7
         ],
         "netatmo_Chitterne_rain_total": [
             0.0,
@@ -253,7 +253,7 @@
         "netatmo_Chitterne_wifi_out": [
             66.3,
             63.9,
-            63.1
+            63.2
         ],
         "netatmo_Chitterne_wifi_rain": [
             58.0,
@@ -263,7 +263,7 @@
         "netatmo_Chitterne_wifi_wind": [
             62.5,
             59.5,
-            60.6
+            60.7
         ],
         "netatmo_Chitterne_windGust": [
             2.0,
@@ -288,12 +288,12 @@
         "outHumidity": [
             88.8,
             89.5,
-            90.8
+            90.9
         ],
         "outTemp": [
             11.2,
             10.7,
-            10.4
+            10.3
         ],
         "pressure": [
             1009.1,
@@ -303,7 +303,7 @@
         "rain": [
             0.0,
             0.8,
-            0.0
+            0.5
         ],
         "rainRate": [
             0.0,
@@ -323,7 +323,7 @@
         "wind": [
             350.2,
             357.9,
-            353.9
+            355.9
         ],
         "windGust": [
             2.0,
@@ -338,7 +338,7 @@
         "windchill": [
             11.2,
             10.7,
-            10.4
+            10.3
         ],
         "windrun": [
             1.0,
@@ -352,8 +352,8 @@
                 "overall": 1022.0
             },
             "max": {
-                "value": 1022.0,
-                "when": 1733097707
+                "value": 1022.4,
+                "when": 1733107811
             },
             "min": {
                 "value": 1022.0,
@@ -440,7 +440,7 @@
         },
         "aq_european_aqi": {
             "average": {
-                "overall": 22.9
+                "overall": 23.0
             },
             "max": {
                 "value": 24.0,
@@ -479,7 +479,7 @@
         },
         "aq_ozone": {
             "average": {
-                "overall": 58.2
+                "overall": 58.3
             },
             "max": {
                 "value": 61.0,
@@ -570,7 +570,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 304.9
+                "overall": 304.0
             },
             "max": {
                 "value": 339.7,
@@ -583,7 +583,7 @@
         },
         "co2": {
             "average": {
-                "overall": 1088.5
+                "overall": 1086.2
             },
             "max": {
                 "value": 1168.0,
@@ -647,7 +647,7 @@
         },
         "humidex": {
             "average": {
-                "overall": 11.7
+                "overall": 11.6
             },
             "max": {
                 "value": 12.4,
@@ -725,7 +725,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1088.5
+                "overall": 1086.2
             },
             "max": {
                 "value": 1168.0,
@@ -777,7 +777,7 @@
         },
         "netatmo_Chitterne_outHumidity": {
             "average": {
-                "overall": 89.6
+                "overall": 89.7
             },
             "max": {
                 "value": 91.0,
@@ -819,8 +819,8 @@
                 "overall": 1009.8
             },
             "max": {
-                "value": 1009.8,
-                "when": 1733097707
+                "value": 1010.2,
+                "when": 1733107811
             },
             "min": {
                 "value": 1009.5,
@@ -959,7 +959,7 @@
         },
         "outHumidity": {
             "average": {
-                "overall": 89.6
+                "overall": 89.7
             },
             "max": {
                 "value": 91.0,
@@ -988,8 +988,8 @@
                 "overall": 1009.8
             },
             "max": {
-                "value": 1009.8,
-                "when": 1733097707
+                "value": 1010.2,
+                "when": 1733107811
             },
             "min": {
                 "value": 1009.5,
@@ -997,7 +997,7 @@
             }
         },
         "rain": {
-            "value": 0.7
+            "value": 1.3
         },
         "rainRate": {
             "average": {
@@ -1091,7 +1091,7 @@
             }
         },
         "windrun": {
-            "value": 2.7
+            "value": 2.8
         }
     }
 }

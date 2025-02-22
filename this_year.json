@@ -547,7 +547,7 @@
         "ecowitt_wittboy_uvi": {
             "max": [
                 1.0,
-                2.0
+                3.0
             ],
             "min": [
                 0.0,
@@ -557,7 +557,7 @@
         "ecowitt_wittboy_uvr": {
             "max": [
                 9.9,
-                54.0
+                100.0
             ],
             "min": [
                 0.0,
@@ -597,7 +597,7 @@
         "ecowitt_wn34_shed_groundTemperature": {
             "max": [
                 68.9,
-                55.4
+                55.8
             ],
             "min": [
                 32.9,
@@ -677,7 +677,7 @@
         "luminosity": {
             "max": [
                 22720.0,
-                34200.0
+                42940.0
             ],
             "min": [
                 0.0,
@@ -1242,7 +1242,7 @@
         },
         "co2": {
             "average": {
-                "overall": 1183.3
+                "overall": 1183.2
             },
             "max": {
                 "value": 2468.0,
@@ -1595,8 +1595,8 @@
                 "overall": 0.0
             },
             "max": {
-                "value": 2.0,
-                "when": 1739795567
+                "value": 3.0,
+                "when": 1740230271
             },
             "min": {
                 "value": 0.0,
@@ -1608,8 +1608,8 @@
                 "overall": 0.3
             },
             "max": {
-                "value": 54.0,
-                "when": 1739795567
+                "value": 100.0,
+                "when": 1740230271
             },
             "min": {
                 "value": 0.0,
@@ -1787,11 +1787,11 @@
         },
         "luminosity": {
             "average": {
-                "overall": 2322.6
+                "overall": 2326.3
             },
             "max": {
-                "value": 34200.0,
-                "when": 1739799555
+                "value": 42940.0,
+                "when": 1740230271
             },
             "min": {
                 "value": 0.0,
@@ -1820,7 +1820,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1183.3
+                "overall": 1183.2
             },
             "max": {
                 "value": 2468.0,
@@ -2002,7 +2002,7 @@
         },
         "netatmo_Chitterne_windDir": {
             "average": {
-                "overall": 101.7
+                "overall": 101.8
             },
             "max": {
                 "value": 358.0,
@@ -2054,7 +2054,7 @@
         },
         "netatmo_Chitterne_wind_battery_vp": {
             "average": {
-                "overall": 5376.3
+                "overall": 5376.4
             },
             "max": {
                 "value": 5621.0,
@@ -2238,7 +2238,7 @@
             }
         },
         "windrun": {
-            "value": 4035.2
+            "value": 4036.1
         },
         "zambretti": {
             "average": "B"

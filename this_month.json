@@ -416,7 +416,14 @@
                 0.0
             ]
         },
-        "aurora_alerts": null,
+        "aurora_alerts": {
+            "max": [
+                48.7
+            ],
+            "min": [
+                48.7
+            ]
+        },
         "barometer": {
             "max": [
                 1035.9,
@@ -439,7 +446,7 @@
                 1819.6,
                 1765.4,
                 1891.5,
-                1932.5
+                1981.6
             ],
             "min": [
                 272.8,
@@ -629,7 +636,7 @@
                 41.0,
                 43.0,
                 41.0,
-                39.0
+                38.0
             ]
         },
         "ecowitt_wh31_patio_outTemp": {
@@ -741,7 +748,7 @@
                 39.0,
                 42.0,
                 39.0,
-                37.0
+                35.0
             ]
         },
         "ecowitt_wittboy_outTemp": {
@@ -1157,7 +1164,7 @@
                 43.0,
                 45.0,
                 47.0,
-                45.0
+                44.0
             ]
         },
         "netatmo_Chitterne_inTemp": {
@@ -1205,7 +1212,7 @@
                 39.0,
                 41.0,
                 40.0,
-                38.0
+                37.0
             ]
         },
         "netatmo_Chitterne_outTemp": {
@@ -1429,7 +1436,7 @@
                 40.0,
                 42.0,
                 40.0,
-                38.0
+                37.0
             ]
         },
         "outTemp": {
@@ -1820,10 +1827,16 @@
         },
         "aurora_alerts": {
             "average": {
-                "overall": null
+                "overall": 48.7
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 48.7,
+                "when": 1743860666
+            },
+            "min": {
+                "value": 48.7,
+                "when": 1743860666
+            }
         },
         "barometer": {
             "average": {
@@ -1840,11 +1853,11 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 984.0
+                "overall": 984.8
             },
             "max": {
-                "value": 1932.5,
-                "when": 1743860323
+                "value": 1981.6,
+                "when": 1743860666
             },
             "min": {
                 "value": 272.8,
@@ -1853,7 +1866,7 @@
         },
         "co2": {
             "average": {
-                "overall": 1125.0
+                "overall": 1124.5
             },
             "max": {
                 "value": 2147.0,
@@ -2002,13 +2015,13 @@
                 "when": 1743491491
             },
             "min": {
-                "value": 39.0,
-                "when": 1743857973
+                "value": 38.0,
+                "when": 1743860666
             }
         },
         "ecowitt_wh31_patio_outTemp": {
             "average": {
-                "overall": 12.2
+                "overall": 12.3
             },
             "max": {
                 "value": 23.4,
@@ -2093,8 +2106,8 @@
                 "when": 1743488778
             },
             "min": {
-                "value": 37.0,
-                "when": 1743860323
+                "value": 35.0,
+                "when": 1743860666
             }
         },
         "ecowitt_wittboy_outTemp": {
@@ -2216,7 +2229,7 @@
         },
         "ecowitt_wittboy_uvr": {
             "average": {
-                "overall": 29.6
+                "overall": 29.7
             },
             "max": {
                 "value": 184.3,
@@ -2398,7 +2411,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 15492.6
+                "overall": 15536.9
             },
             "max": {
                 "value": 75260.0,
@@ -2431,7 +2444,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1125.0
+                "overall": 1124.5
             },
             "max": {
                 "value": 2147.0,
@@ -2490,8 +2503,8 @@
                 "when": 1743491850
             },
             "min": {
-                "value": 38.0,
-                "when": 1743860323
+                "value": 37.0,
+                "when": 1743860666
             }
         },
         "netatmo_Chitterne_outTemp": {
@@ -2698,8 +2711,8 @@
                 "when": 1743491491
             },
             "min": {
-                "value": 38.0,
-                "when": 1743860323
+                "value": 37.0,
+                "when": 1743860666
             }
         },
         "outTemp": {
@@ -2849,7 +2862,7 @@
             }
         },
         "windrun": {
-            "value": 700.8
+            "value": 701.5
         },
         "zambretti": {
             "average": "H"

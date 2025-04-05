@@ -285,7 +285,17 @@
             "when": 1732205100
         }
     },
-    "aurora_alerts": null,
+    "aurora_alerts": {
+        "ave": 48.7,
+        "max": {
+            "value": 48.7,
+            "when": 1743860666
+        },
+        "min": {
+            "value": 48.7,
+            "when": 1743860666
+        }
+    },
     "barometer": {
         "ave": 1023.1,
         "max": {
@@ -559,8 +569,12 @@
             ]
         },
         "aurora_alerts": {
-            "max": [],
-            "min": []
+            "max": [
+                48.7
+            ],
+            "min": [
+                48.7
+            ]
         },
         "barometer": {
             "max": [
@@ -1684,7 +1698,7 @@
         }
     },
     "luminosity": {
-        "ave": 5693.1,
+        "ave": 5695.7,
         "max": {
             "value": 96700.0,
             "when": 1742907706
@@ -2044,6 +2058,6 @@
             "value": 0.0,
             "when": 1725030300
         },
-        "total": 12493.3
+        "total": 12494.1
     }
 }

@@ -364,7 +364,14 @@
                 0.0
             ]
         },
-        "aurora_alerts": null,
+        "aurora_alerts": {
+            "max": [
+                48.7
+            ],
+            "min": [
+                48.7
+            ]
+        },
         "barometer": {
             "max": [
                 1052.8,
@@ -384,7 +391,7 @@
                 962.7,
                 1287.0,
                 2169.8,
-                1932.5
+                1981.6
             ],
             "min": [
                 117.9,
@@ -550,7 +557,7 @@
                 63.0,
                 54.0,
                 33.0,
-                39.0
+                38.0
             ]
         },
         "ecowitt_wh31_patio_outTemp": {
@@ -648,7 +655,7 @@
                 56.0,
                 44.0,
                 28.0,
-                37.0
+                35.0
             ]
         },
         "ecowitt_wittboy_outTemp": {
@@ -1054,7 +1061,7 @@
                 65.0,
                 54.0,
                 32.0,
-                38.0
+                37.0
             ]
         },
         "netatmo_Chitterne_outTemp": {
@@ -1250,7 +1257,7 @@
                 62.0,
                 51.7,
                 31.3,
-                38.0
+                37.0
             ]
         },
         "outTemp": {
@@ -1619,10 +1626,16 @@
         },
         "aurora_alerts": {
             "average": {
-                "overall": null
+                "overall": 48.7
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 48.7,
+                "when": 1743860666
+            },
+            "min": {
+                "value": 48.7,
+                "when": 1743860666
+            }
         },
         "barometer": {
             "average": {
@@ -2197,7 +2210,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 5693.1
+                "overall": 5695.7
             },
             "max": {
                 "value": 96700.0,
@@ -2648,7 +2661,7 @@
             }
         },
         "windrun": {
-            "value": 8044.8
+            "value": 8045.5
         },
         "zambretti": {
             "average": "B"

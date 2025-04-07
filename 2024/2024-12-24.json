@@ -2862,9 +2862,7 @@
                 "when": 1734998700
             }
         },
-        "aurora_alerts": {
-            "max": {}
-        },
+        "aurora_alerts": {},
         "barometer": {
             "average": {
                 "overall": 1037.7
@@ -2929,99 +2927,37 @@
                 "when": 1734998700
             }
         },
-        "ecowitt_gateway_inHumidity": {
-            "max": {}
-        },
-        "ecowitt_gateway_inTemp": {
-            "max": {}
-        },
-        "ecowitt_gateway_pressure": {
-            "max": {}
-        },
-        "ecowitt_wh31_hall_battery": {
-            "max": {}
-        },
-        "ecowitt_wh31_hall_inHumidity": {
-            "max": {}
-        },
-        "ecowitt_wh31_hall_inTemp": {
-            "max": {}
-        },
-        "ecowitt_wh31_hall_status": {
-            "max": {}
-        },
-        "ecowitt_wh31_patio_battery": {
-            "max": {}
-        },
-        "ecowitt_wh31_patio_outHumidity": {
-            "max": {}
-        },
-        "ecowitt_wh31_patio_outTemp": {
-            "max": {}
-        },
-        "ecowitt_wh31_patio_status": {
-            "max": {}
-        },
-        "ecowitt_wh51_patio_battery": {
-            "max": {}
-        },
-        "ecowitt_wh51_patio_outGroundHumidity": {
-            "max": {}
-        },
-        "ecowitt_wh51_patio_status": {
-            "max": {}
-        },
-        "ecowitt_wittboy_battery": {
-            "max": {}
-        },
-        "ecowitt_wittboy_outHumidity": {
-            "max": {}
-        },
-        "ecowitt_wittboy_outTemp": {
-            "max": {}
-        },
-        "ecowitt_wittboy_rain_day": {
-            "max": {}
-        },
-        "ecowitt_wittboy_rain_event": {
-            "max": {}
-        },
-        "ecowitt_wittboy_rain_month": {
-            "max": {}
-        },
-        "ecowitt_wittboy_rain_rate": {
-            "max": {}
-        },
-        "ecowitt_wittboy_rain_week": {
-            "max": {}
-        },
-        "ecowitt_wittboy_rain_year": {
-            "max": {}
-        },
-        "ecowitt_wittboy_status": {
-            "max": {}
-        },
-        "ecowitt_wittboy_uvi": {
-            "max": {}
-        },
-        "ecowitt_wittboy_uvr": {
-            "max": {}
-        },
-        "ecowitt_wittboy_windGust": {
-            "max": {}
-        },
-        "ecowitt_wittboy_windSpeed": {
-            "max": {}
-        },
-        "ecowitt_wn34_shed_battery": {
-            "max": {}
-        },
-        "ecowitt_wn34_shed_groundTemperature": {
-            "max": {}
-        },
-        "ecowitt_wn34_shed_status": {
-            "max": {}
-        },
+        "ecowitt_gateway_inHumidity": {},
+        "ecowitt_gateway_inTemp": {},
+        "ecowitt_gateway_pressure": {},
+        "ecowitt_wh31_hall_battery": {},
+        "ecowitt_wh31_hall_inHumidity": {},
+        "ecowitt_wh31_hall_inTemp": {},
+        "ecowitt_wh31_hall_status": {},
+        "ecowitt_wh31_patio_battery": {},
+        "ecowitt_wh31_patio_outHumidity": {},
+        "ecowitt_wh31_patio_outTemp": {},
+        "ecowitt_wh31_patio_status": {},
+        "ecowitt_wh51_patio_battery": {},
+        "ecowitt_wh51_patio_outGroundHumidity": {},
+        "ecowitt_wh51_patio_status": {},
+        "ecowitt_wittboy_battery": {},
+        "ecowitt_wittboy_outHumidity": {},
+        "ecowitt_wittboy_outTemp": {},
+        "ecowitt_wittboy_rain_day": {},
+        "ecowitt_wittboy_rain_event": {},
+        "ecowitt_wittboy_rain_month": {},
+        "ecowitt_wittboy_rain_rate": {},
+        "ecowitt_wittboy_rain_week": {},
+        "ecowitt_wittboy_rain_year": {},
+        "ecowitt_wittboy_status": {},
+        "ecowitt_wittboy_uvi": {},
+        "ecowitt_wittboy_uvr": {},
+        "ecowitt_wittboy_windGust": {},
+        "ecowitt_wittboy_windSpeed": {},
+        "ecowitt_wn34_shed_battery": {},
+        "ecowitt_wn34_shed_groundTemperature": {},
+        "ecowitt_wn34_shed_status": {},
         "feelslike": {
             "average": {
                 "overall": 10.1
@@ -3100,9 +3036,7 @@
                 "when": 1734999600
             }
         },
-        "luminosity": {
-            "max": {}
-        },
+        "luminosity": {},
         "metoffice_alerts": {
             "average": {
                 "overall": 0.0
@@ -3117,7 +3051,11 @@
             }
         },
         "netatmo_Chitterne_Wifi_in": {
-            "max": {}
+            "average": {
+                "overall": null
+            },
+            "max": null,
+            "min": null
         },
         "netatmo_Chitterne_co2": {
             "average": {

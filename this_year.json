@@ -632,18 +632,18 @@
         },
         "ecowitt_wh57_lightning_battery": {
             "max": [
-                null
+                5.0
             ],
             "min": [
-                null
+                5.0
             ]
         },
         "ecowitt_wh57_lightning_status": {
             "max": [
-                null
+                4.0
             ],
             "min": [
-                null
+                4.0
             ]
         },
         "ecowitt_wittboy_battery": {
@@ -1700,7 +1700,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 514.6
+                "overall": 514.7
             },
             "max": {
                 "value": 2272.4,
@@ -1933,17 +1933,29 @@
         },
         "ecowitt_wh57_lightning_battery": {
             "average": {
-                "overall": null
+                "overall": 5.0
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 5.0,
+                "when": 1744392160
+            },
+            "min": {
+                "value": 5.0,
+                "when": 1744392160
+            }
         },
         "ecowitt_wh57_lightning_status": {
             "average": {
-                "overall": null
+                "overall": 4.0
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 4.0,
+                "when": 1744392160
+            },
+            "min": {
+                "value": 4.0,
+                "when": 1744392160
+            }
         },
         "ecowitt_wittboy_battery": {
             "average": {
@@ -2312,7 +2324,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 6483.7
+                "overall": 6483.6
             },
             "max": {
                 "value": 96700.0,
@@ -2763,7 +2775,7 @@
             }
         },
         "windrun": {
-            "value": 8754.1
+            "value": 8754.5
         },
         "zambretti": {
             "average": "B"

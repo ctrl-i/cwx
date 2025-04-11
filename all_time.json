@@ -734,18 +734,18 @@
         },
         "ecowitt_wh57_lightning_battery": {
             "max": [
-                null
+                5.0
             ],
             "min": [
-                null
+                5.0
             ]
         },
         "ecowitt_wh57_lightning_status": {
             "max": [
-                null
+                4.0
             ],
             "min": [
-                null
+                4.0
             ]
         },
         "ecowitt_wittboy_battery": {
@@ -1317,7 +1317,7 @@
         }
     },
     "co2": {
-        "ave": 1105.7,
+        "ave": 1105.6,
         "max": {
             "value": 3786.0,
             "when": 1729830600
@@ -1492,8 +1492,28 @@
             "when": 1744283890
         }
     },
-    "ecowitt_wh57_lightning_battery": null,
-    "ecowitt_wh57_lightning_status": null,
+    "ecowitt_wh57_lightning_battery": {
+        "ave": 5.0,
+        "max": {
+            "value": 5.0,
+            "when": 1744392160
+        },
+        "min": {
+            "value": 5.0,
+            "when": 1744392160
+        }
+    },
+    "ecowitt_wh57_lightning_status": {
+        "ave": 4.0,
+        "max": {
+            "value": 4.0,
+            "when": 1744392160
+        },
+        "min": {
+            "value": 4.0,
+            "when": 1744392160
+        }
+    },
     "ecowitt_wittboy_battery": {
         "ave": 3.3,
         "max": {
@@ -1772,7 +1792,7 @@
         }
     },
     "luminosity": {
-        "ave": 6483.7,
+        "ave": 6483.6,
         "max": {
             "value": 96700.0,
             "when": 1742907706
@@ -1849,7 +1869,7 @@
         }
     },
     "netatmo_Chitterne_outHumidity": {
-        "ave": 81.7,
+        "ave": 81.6,
         "max": {
             "value": 98.0,
             "when": 1736061340
@@ -1904,7 +1924,7 @@
         }
     },
     "netatmo_Chitterne_rain_battery_vp": {
-        "ave": 5168.8,
+        "ave": 5168.7,
         "max": {
             "value": 5264.3,
             "when": 1730999100
@@ -2132,6 +2152,6 @@
             "value": 0.0,
             "when": 1725030300
         },
-        "total": 13202.7
+        "total": 13203.0
     }
 }

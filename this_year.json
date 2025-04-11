@@ -285,7 +285,7 @@
                 93.0,
                 93.0,
                 100.0,
-                105.0
+                106.0
             ],
             "min": [
                 7.0,
@@ -630,6 +630,22 @@
                 0.0
             ]
         },
+        "ecowitt_wh57_lightning_battery": {
+            "max": [
+                null
+            ],
+            "min": [
+                null
+            ]
+        },
+        "ecowitt_wh57_lightning_status": {
+            "max": [
+                null
+            ],
+            "min": [
+                null
+            ]
+        },
         "ecowitt_wittboy_battery": {
             "max": [
                 3.3,
@@ -950,6 +966,38 @@
                 12.7,
                 8.8,
                 13.3
+            ]
+        },
+        "lightning_distance": {
+            "max": [
+                null
+            ],
+            "min": [
+                null
+            ]
+        },
+        "lightning_last_det_time": {
+            "max": [
+                null
+            ],
+            "min": [
+                null
+            ]
+        },
+        "lightning_strike_count": {
+            "max": [
+                0.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        "lightningcount": {
+            "max": [
+                0.0
+            ],
+            "min": [
+                0.0
             ]
         },
         "luminosity": {
@@ -1551,8 +1599,8 @@
                 "overall": 57.9
             },
             "max": {
-                "value": 105.0,
-                "when": 1744390270
+                "value": 106.0,
+                "when": 1744391350
             },
             "min": {
                 "value": 7.0,
@@ -1652,7 +1700,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 514.5
+                "overall": 514.6
             },
             "max": {
                 "value": 2272.4,
@@ -1882,6 +1930,20 @@
                 "value": 0.0,
                 "when": 1744283890
             }
+        },
+        "ecowitt_wh57_lightning_battery": {
+            "average": {
+                "overall": null
+            },
+            "max": null,
+            "min": null
+        },
+        "ecowitt_wh57_lightning_status": {
+            "average": {
+                "overall": null
+            },
+            "max": null,
+            "min": null
         },
         "ecowitt_wittboy_battery": {
             "average": {
@@ -2206,6 +2268,46 @@
             "min": {
                 "value": 7.5,
                 "when": 1736559082
+            }
+        },
+        "lightning_distance": {
+            "average": {
+                "overall": null
+            },
+            "max": null,
+            "min": null
+        },
+        "lightning_last_det_time": {
+            "average": {
+                "overall": null
+            },
+            "max": null,
+            "min": null
+        },
+        "lightning_strike_count": {
+            "average": {
+                "overall": 0.0
+            },
+            "max": {
+                "value": 0.0,
+                "when": 1744391169
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1744391169
+            }
+        },
+        "lightningcount": {
+            "average": {
+                "overall": 0.0
+            },
+            "max": {
+                "value": 0.0,
+                "when": 1744391169
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1744391169
             }
         },
         "luminosity": {
@@ -2623,7 +2725,7 @@
         },
         "windGustDir": {
             "average": {
-                "overall": 177.6
+                "overall": 177.7
             },
             "max": {
                 "value": 359.0,
@@ -2661,7 +2763,7 @@
             }
         },
         "windrun": {
-            "value": 8753.7
+            "value": 8754.0
         },
         "zambretti": {
             "average": "B"

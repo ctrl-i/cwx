@@ -222,8 +222,8 @@
     "aq_ozone": {
         "ave": 58.0,
         "max": {
-            "value": 105.0,
-            "when": 1744390270
+            "value": 106.0,
+            "when": 1744391350
         },
         "min": {
             "value": 5.0,
@@ -511,7 +511,7 @@
         "aq_ozone": {
             "max": [
                 88.0,
-                105.0
+                106.0
             ],
             "min": [
                 5.0,
@@ -732,6 +732,22 @@
                 0.0
             ]
         },
+        "ecowitt_wh57_lightning_battery": {
+            "max": [
+                null
+            ],
+            "min": [
+                null
+            ]
+        },
+        "ecowitt_wh57_lightning_status": {
+            "max": [
+                null
+            ],
+            "min": [
+                null
+            ]
+        },
         "ecowitt_wittboy_battery": {
             "max": [
                 3.3
@@ -926,6 +942,38 @@
             "min": [
                 12.5,
                 7.5
+            ]
+        },
+        "lightning_distance": {
+            "max": [
+                null
+            ],
+            "min": [
+                null
+            ]
+        },
+        "lightning_last_det_time": {
+            "max": [
+                null
+            ],
+            "min": [
+                null
+            ]
+        },
+        "lightning_strike_count": {
+            "max": [
+                0.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        "lightningcount": {
+            "max": [
+                0.0
+            ],
+            "min": [
+                0.0
             ]
         },
         "luminosity": {
@@ -1444,6 +1492,8 @@
             "when": 1744283890
         }
     },
+    "ecowitt_wh57_lightning_battery": null,
+    "ecowitt_wh57_lightning_status": null,
     "ecowitt_wittboy_battery": {
         "ave": 3.3,
         "max": {
@@ -1697,6 +1747,30 @@
             "when": 1736559082
         }
     },
+    "lightning_distance": null,
+    "lightning_last_det_time": null,
+    "lightning_strike_count": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 1744391169
+        },
+        "min": {
+            "value": 0.0,
+            "when": 1744391169
+        }
+    },
+    "lightningcount": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 1744391169
+        },
+        "min": {
+            "value": 0.0,
+            "when": 1744391169
+        }
+    },
     "luminosity": {
         "ave": 6483.7,
         "max": {
@@ -1731,7 +1805,7 @@
         }
     },
     "netatmo_Chitterne_co2": {
-        "ave": 1037.2,
+        "ave": 1037.1,
         "max": {
             "value": 2525.4,
             "when": 1731289200
@@ -2058,6 +2132,6 @@
             "value": 0.0,
             "when": 1725030300
         },
-        "total": 13202.3
+        "total": 13202.5
     }
 }

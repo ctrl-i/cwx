@@ -646,7 +646,7 @@
         },
         "ecowitt_wh31_hall_battery": {
             "max": [
-                0.0
+                1.0
             ],
             "min": [
                 0.0
@@ -678,7 +678,7 @@
         },
         "ecowitt_wh31_patio_battery": {
             "max": [
-                0.0
+                1.0
             ],
             "min": [
                 0.0
@@ -710,7 +710,7 @@
         },
         "ecowitt_wh51_patio_battery": {
             "max": [
-                1.8
+                3.1
             ],
             "min": [
                 1.6
@@ -734,7 +734,7 @@
         },
         "ecowitt_wh57_lightning_battery": {
             "max": [
-                5.0
+                15.0
             ],
             "min": [
                 5.0
@@ -745,7 +745,7 @@
                 4.0
             ],
             "min": [
-                2.0
+                0.0
             ]
         },
         "ecowitt_wittboy_battery": {
@@ -1306,7 +1306,7 @@
         }
     },
     "cloudbase": {
-        "ave": 461.7,
+        "ave": 461.8,
         "max": {
             "value": 2272.4,
             "when": 1744026318
@@ -1374,8 +1374,8 @@
     "ecowitt_wh31_hall_battery": {
         "ave": 0.0,
         "max": {
-            "value": 0.0,
-            "when": 1736331266
+            "value": 1.0,
+            "when": 1744555391
         },
         "min": {
             "value": 0.0,
@@ -1418,8 +1418,8 @@
     "ecowitt_wh31_patio_battery": {
         "ave": 0.0,
         "max": {
-            "value": 0.0,
-            "when": 1736331266
+            "value": 1.0,
+            "when": 1744555391
         },
         "min": {
             "value": 0.0,
@@ -1462,8 +1462,8 @@
     "ecowitt_wh51_patio_battery": {
         "ave": 1.7,
         "max": {
-            "value": 1.8,
-            "when": 1744373293
+            "value": 3.1,
+            "when": 1744555391
         },
         "min": {
             "value": 1.6,
@@ -1495,8 +1495,8 @@
     "ecowitt_wh57_lightning_battery": {
         "ave": 5.0,
         "max": {
-            "value": 5.0,
-            "when": 1744392160
+            "value": 15.0,
+            "when": 1744555391
         },
         "min": {
             "value": 5.0,
@@ -1510,8 +1510,8 @@
             "when": 1744392160
         },
         "min": {
-            "value": 2.0,
-            "when": 1744409152
+            "value": 0.0,
+            "when": 1744555391
         }
     },
     "ecowitt_wittboy_battery": {
@@ -1792,7 +1792,7 @@
         }
     },
     "luminosity": {
-        "ave": 6588.4,
+        "ave": 6589.6,
         "max": {
             "value": 96700.0,
             "when": 1742907706
@@ -1902,7 +1902,7 @@
         }
     },
     "netatmo_Chitterne_pressure": {
-        "ave": 1011.0,
+        "ave": 1010.9,
         "max": {
             "value": 1038.9,
             "when": 1736713968
@@ -2152,6 +2152,6 @@
             "value": 0.0,
             "when": 1725030300
         },
-        "total": 13333.7
+        "total": 13334.2
     }
 }

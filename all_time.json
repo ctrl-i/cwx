@@ -946,23 +946,23 @@
         },
         "lightning_distance": {
             "max": [
-                null
+                12.0
             ],
             "min": [
-                null
+                12.0
             ]
         },
         "lightning_last_det_time": {
             "max": [
-                null
+                1744694209.0
             ],
             "min": [
-                null
+                1744694209.0
             ]
         },
         "lightning_strike_count": {
             "max": [
-                0.0
+                1.0
             ],
             "min": [
                 0.0
@@ -970,7 +970,7 @@
         },
         "lightningcount": {
             "max": [
-                0.0
+                1.0
             ],
             "min": [
                 0.0
@@ -1767,13 +1767,33 @@
             "when": 1736559082
         }
     },
-    "lightning_distance": null,
-    "lightning_last_det_time": null,
+    "lightning_distance": {
+        "ave": 12.0,
+        "max": {
+            "value": 12.0,
+            "when": 1744694266
+        },
+        "min": {
+            "value": 12.0,
+            "when": 1744694266
+        }
+    },
+    "lightning_last_det_time": {
+        "ave": 1744694209.0,
+        "max": {
+            "value": 1744694209.0,
+            "when": 1744694266
+        },
+        "min": {
+            "value": 1744694209.0,
+            "when": 1744694266
+        }
+    },
     "lightning_strike_count": {
         "ave": 0.0,
         "max": {
-            "value": 0.0,
-            "when": 1744391169
+            "value": 1.0,
+            "when": 1744694266
         },
         "min": {
             "value": 0.0,
@@ -1783,8 +1803,8 @@
     "lightningcount": {
         "ave": 0.0,
         "max": {
-            "value": 0.0,
-            "when": 1744391169
+            "value": 1.0,
+            "when": 1744694266
         },
         "min": {
             "value": 0.0,
@@ -1792,7 +1812,7 @@
         }
     },
     "luminosity": {
-        "ave": 6586.6,
+        "ave": 6586.4,
         "max": {
             "value": 96700.0,
             "when": 1742907706
@@ -2152,6 +2172,6 @@
             "value": 0.0,
             "when": 1725030300
         },
-        "total": 13442.8
+        "total": 13443.0
     }
 }

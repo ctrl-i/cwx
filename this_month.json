@@ -429,7 +429,7 @@
                 -5.6,
                 -1.6,
                 -7.6,
-                4.2
+                4.0
             ]
         },
         "aq_alder_pollen": {
@@ -1122,7 +1122,7 @@
                 -5.3,
                 -1.8,
                 -6.8,
-                4.4
+                4.3
             ]
         },
         "ecowitt_gateway_inHumidity": {
@@ -1766,7 +1766,7 @@
                 -1.7,
                 1.6,
                 -3.6,
-                6.1
+                6.0
             ]
         },
         "ecowitt_wittboy_rain_day": {
@@ -2306,7 +2306,7 @@
                 -5.6,
                 -1.6,
                 -7.6,
-                4.2
+                4.0
             ]
         },
         "heatindex": {
@@ -2342,7 +2342,7 @@
                 -1.7,
                 1.6,
                 -3.6,
-                5.1
+                5.0
             ]
         },
         "humidex": {
@@ -2378,7 +2378,7 @@
                 -1.7,
                 1.6,
                 -3.6,
-                6.1
+                6.0
             ]
         },
         "inDewpoint": {
@@ -2495,14 +2495,14 @@
                 null,
                 null,
                 null,
-                null
+                12.0
             ],
             "min": [
                 null,
                 null,
                 null,
                 null,
-                null
+                12.0
             ]
         },
         "lightning_last_det_time": {
@@ -2511,14 +2511,14 @@
                 null,
                 null,
                 null,
-                null
+                1744694209.0
             ],
             "min": [
                 null,
                 null,
                 null,
                 null,
-                null
+                1744694209.0
             ]
         },
         "lightning_strike_count": {
@@ -2527,7 +2527,7 @@
                 0.0,
                 0.0,
                 0.0,
-                0.0
+                1.0
             ],
             "min": [
                 0.0,
@@ -2543,7 +2543,7 @@
                 0.0,
                 0.0,
                 0.0,
-                0.0
+                1.0
             ],
             "min": [
                 0.0,
@@ -2569,7 +2569,7 @@
                 86120.0,
                 87360.0,
                 65910.0,
-                250.0
+                330.0
             ],
             "min": [
                 0.0,
@@ -3378,7 +3378,7 @@
                 -1.7,
                 1.6,
                 -3.6,
-                6.1
+                6.0
             ]
         },
         "pressure": {
@@ -3558,7 +3558,7 @@
                 -2.9,
                 0.4,
                 -4.6,
-                5.3
+                5.2
             ]
         },
         "wind": {
@@ -3979,7 +3979,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 968.9
+                "overall": 968.8
             },
             "max": {
                 "value": 2272.4,
@@ -3992,7 +3992,7 @@
         },
         "co2": {
             "average": {
-                "overall": 1062.4
+                "overall": 1062.5
             },
             "max": {
                 "value": 2147.0,
@@ -4433,7 +4433,7 @@
         },
         "ecowitt_wittboy_windSpeed": {
             "average": {
-                "overall": 3.1
+                "overall": 3.0
             },
             "max": {
                 "value": 15.7,
@@ -4563,25 +4563,37 @@
         },
         "lightning_distance": {
             "average": {
-                "overall": null
+                "overall": 12.0
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 12.0,
+                "when": 1744694266
+            },
+            "min": {
+                "value": 12.0,
+                "when": 1744694266
+            }
         },
         "lightning_last_det_time": {
             "average": {
-                "overall": null
+                "overall": 1744694209.0
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 1744694209.0,
+                "when": 1744694266
+            },
+            "min": {
+                "value": 1744694209.0,
+                "when": 1744694266
+            }
         },
         "lightning_strike_count": {
             "average": {
                 "overall": 0.0
             },
             "max": {
-                "value": 0.0,
-                "when": 1744391169
+                "value": 1.0,
+                "when": 1744694266
             },
             "min": {
                 "value": 0.0,
@@ -4593,8 +4605,8 @@
                 "overall": 0.0
             },
             "max": {
-                "value": 0.0,
-                "when": 1744391169
+                "value": 1.0,
+                "when": 1744694266
             },
             "min": {
                 "value": 0.0,
@@ -4603,7 +4615,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 15128.3
+                "overall": 15124.6
             },
             "max": {
                 "value": 87360.0,
@@ -4636,7 +4648,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1062.4
+                "overall": 1062.5
             },
             "max": {
                 "value": 2147.0,
@@ -4727,7 +4739,7 @@
         },
         "netatmo_Chitterne_pressure": {
             "average": {
-                "overall": 1005.1
+                "overall": 1005.0
             },
             "max": {
                 "value": 1019.3,
@@ -4818,7 +4830,7 @@
         },
         "netatmo_Chitterne_windDir": {
             "average": {
-                "overall": 78.2
+                "overall": 78.3
             },
             "max": {
                 "value": 357.0,
@@ -4844,7 +4856,7 @@
         },
         "netatmo_Chitterne_windGustDir": {
             "average": {
-                "overall": 80.6
+                "overall": 80.7
             },
             "max": {
                 "value": 358.0,
@@ -5054,7 +5066,7 @@
             }
         },
         "windrun": {
-            "value": 1650.2
+            "value": 1650.5
         },
         "zambretti": {
             "average": "B"

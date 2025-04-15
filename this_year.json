@@ -970,23 +970,23 @@
         },
         "lightning_distance": {
             "max": [
-                null
+                12.0
             ],
             "min": [
-                null
+                12.0
             ]
         },
         "lightning_last_det_time": {
             "max": [
-                null
+                1744694209.0
             ],
             "min": [
-                null
+                1744694209.0
             ]
         },
         "lightning_strike_count": {
             "max": [
-                0.0
+                1.0
             ],
             "min": [
                 0.0
@@ -994,7 +994,7 @@
         },
         "lightningcount": {
             "max": [
-                0.0
+                1.0
             ],
             "min": [
                 0.0
@@ -1700,7 +1700,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 523.2
+                "overall": 523.1
             },
             "max": {
                 "value": 2272.4,
@@ -2284,25 +2284,37 @@
         },
         "lightning_distance": {
             "average": {
-                "overall": null
+                "overall": 12.0
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 12.0,
+                "when": 1744694266
+            },
+            "min": {
+                "value": 12.0,
+                "when": 1744694266
+            }
         },
         "lightning_last_det_time": {
             "average": {
-                "overall": null
+                "overall": 1744694209.0
             },
-            "max": null,
-            "min": null
+            "max": {
+                "value": 1744694209.0,
+                "when": 1744694266
+            },
+            "min": {
+                "value": 1744694209.0,
+                "when": 1744694266
+            }
         },
         "lightning_strike_count": {
             "average": {
                 "overall": 0.0
             },
             "max": {
-                "value": 0.0,
-                "when": 1744391169
+                "value": 1.0,
+                "when": 1744694266
             },
             "min": {
                 "value": 0.0,
@@ -2314,8 +2326,8 @@
                 "overall": 0.0
             },
             "max": {
-                "value": 0.0,
-                "when": 1744391169
+                "value": 1.0,
+                "when": 1744694266
             },
             "min": {
                 "value": 0.0,
@@ -2324,7 +2336,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 6586.6
+                "overall": 6586.4
             },
             "max": {
                 "value": 96700.0,
@@ -2775,7 +2787,7 @@
             }
         },
         "windrun": {
-            "value": 8994.2
+            "value": 8994.5
         },
         "zambretti": {
             "average": "B"

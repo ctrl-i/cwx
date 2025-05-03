@@ -29,7 +29,35 @@
             "level": "full 4 / 4",
             "percent": 100.0,
             "value": 1.76
+        },
+        "netatmo_Chitterne_out_battery_vp": {
+            "level": "very high",
+            "percent": 91.7,
+            "value": 5668
+        },
+        "netatmo_Chitterne_rain_battery_vp": {
+            "level": "high",
+            "percent": 77.5,
+            "value": 5101
+        },
+        "netatmo_Chitterne_wind_battery_vp": {
+            "level": "high",
+            "percent": 86.3,
+            "value": 5401
         }
     },
-    "wifi": {}
+    "wifi": {
+        "netatmo_Chitterne_wifi_out": {
+            "level": "good",
+            "value": 56
+        },
+        "netatmo_Chitterne_wifi_rain": {
+            "level": "ok",
+            "value": 62
+        },
+        "netatmo_Chitterne_wifi_wind": {
+            "level": "good",
+            "value": 55
+        }
+    }
 }

@@ -18,50 +18,50 @@
         },
         "api_cold": {
             "max": [
-                0.8,
-                0.8,
-                0.8,
-                0.3,
-                0.3
+                null,
+                null,
+                null,
+                null,
+                null
             ],
             "min": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ]
         },
         "api_dew": {
             "max": [
-                0.8,
-                0.8,
-                0.7,
-                0.7,
-                0.5
+                null,
+                null,
+                null,
+                null,
+                null
             ],
             "min": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ]
         },
         "api_foggy": {
             "max": [
-                1.0,
-                0.3,
-                0.8,
-                0.5,
-                0.5
+                null,
+                null,
+                null,
+                null,
+                null
             ],
             "min": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ]
         },
         "api_frost_grass": {
@@ -98,82 +98,82 @@
         },
         "api_hot": {
             "max": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ],
             "min": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ]
         },
         "api_rainy": {
             "max": [
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
+                null,
+                null,
+                null,
+                null,
+                null
             ],
             "min": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ]
         },
         "api_snowy": {
             "max": [
-                1.0,
-                0.8,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ],
             "min": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ]
         },
         "api_stormy": {
             "max": [
-                0.3,
-                0.3,
-                0.0,
-                0.3,
-                0.2
+                null,
+                null,
+                null,
+                null,
+                null
             ],
             "min": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ]
         },
         "api_thundery": {
             "max": [
-                0.0,
-                0.0,
-                0.0,
-                0.2,
-                0.2
+                null,
+                null,
+                null,
+                null,
+                null
             ],
             "min": [
-                0.0,
-                0.0,
-                0.0,
-                0.0,
-                0.0
+                null,
+                null,
+                null,
+                null,
+                null
             ]
         },
         "appTemp": {
@@ -457,10 +457,10 @@
                 2424.0
             ],
             "min": [
-                138.4,
-                158.3,
+                101.0,
+                101.0,
                 201.5,
-                179.4,
+                101.0,
                 254.5
             ]
         },
@@ -1572,7 +1572,7 @@
                 999.0,
                 992.2,
                 988.8,
-                1002.4
+                1002.0
             ]
         },
         "rain": {
@@ -1708,7 +1708,7 @@
                 2.7,
                 2.1,
                 1.9,
-                2.1,
+                2.4,
                 2.1
             ],
             "min": [
@@ -1957,20 +1957,20 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 619.9
+                "overall": 620.3
             },
             "max": {
                 "value": 2424.0,
                 "when": 1746879300
             },
             "min": {
-                "value": 138.4,
-                "when": 1736061600
+                "value": 101.0,
+                "when": 1735989600
             }
         },
         "co2": {
             "average": {
-                "overall": 1081.9
+                "overall": 1081.8
             },
             "max": {
                 "value": 2466.5,
@@ -1982,16 +1982,16 @@
             }
         },
         "conditions": {
-            "cold": true,
-            "dew": true,
-            "foggy": true,
+            "cold": false,
+            "dew": false,
+            "foggy": false,
             "frost_grass": true,
             "frost_ground": true,
             "hot": false,
-            "rainy": true,
-            "snowy": true,
-            "stormy": true,
-            "thundery": true
+            "rainy": false,
+            "snowy": false,
+            "stormy": false,
+            "thundery": false
         },
         "dewpoint": {
             "average": {
@@ -2281,7 +2281,7 @@
         },
         "ecowitt_wittboy_rain_month": {
             "average": {
-                "overall": 0.7037
+                "overall": 0.7038
             },
             "max": {
                 "value": 4.52,
@@ -2320,7 +2320,7 @@
         },
         "ecowitt_wittboy_rain_year": {
             "average": {
-                "overall": 6.4296
+                "overall": 6.4297
             },
             "max": {
                 "value": 9.4,
@@ -2554,7 +2554,7 @@
         },
         "lightning_last_det_time": {
             "average": {
-                "overall": 1746193132.5
+                "overall": 1746193299.5
             },
             "max": {
                 "value": 1748109599.0,
@@ -2593,7 +2593,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 9587.5
+                "overall": 9589.7
             },
             "max": {
                 "value": 125410.0,
@@ -2626,7 +2626,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1081.9
+                "overall": 1081.8
             },
             "max": {
                 "value": 2466.5,
@@ -2743,7 +2743,7 @@
         },
         "netatmo_Chitterne_rain_battery_vp": {
             "average": {
-                "overall": 5118.2963
+                "overall": 5118.2936
             },
             "max": {
                 "value": 5194.0,
@@ -2782,7 +2782,7 @@
         },
         "netatmo_Chitterne_wifi_rain": {
             "average": {
-                "overall": 60.4371
+                "overall": 60.4372
             },
             "max": {
                 "value": 120.0,
@@ -2912,7 +2912,7 @@
         },
         "pressure": {
             "average": {
-                "overall": 1012.5
+                "overall": 1012.4
             },
             "max": {
                 "value": 1043.0,
@@ -2928,7 +2928,7 @@
         },
         "rainRate": {
             "average": {
-                "overall": 0.1393
+                "overall": 0.139
             },
             "max": {
                 "value": 29.5656,
@@ -3044,7 +3044,7 @@
             }
         },
         "windrun": {
-            "value": 12981.6
+            "value": 13048.6
         },
         "zambretti": {
             "average": "B"

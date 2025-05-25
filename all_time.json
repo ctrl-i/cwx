@@ -10,9 +10,29 @@
             "when": 604425600
         }
     },
-    "api_cold": null,
+    "api_cold": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 117590400
+        },
+        "min": {
+            "value": 0.0,
+            "when": 117590400
+        }
+    },
     "api_dew": null,
-    "api_foggy": null,
+    "api_foggy": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 117590400
+        },
+        "min": {
+            "value": 0.0,
+            "when": 117590400
+        }
+    },
     "api_frost_grass": {
         "ave": 0.4,
         "max": {
@@ -35,11 +55,61 @@
             "when": 1730972100
         }
     },
-    "api_hot": null,
-    "api_rainy": null,
-    "api_snowy": null,
-    "api_stormy": null,
-    "api_thundery": null,
+    "api_hot": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 117590400
+        },
+        "min": {
+            "value": 0.0,
+            "when": 117590400
+        }
+    },
+    "api_rainy": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 117590400
+        },
+        "min": {
+            "value": 0.0,
+            "when": 117590400
+        }
+    },
+    "api_snowy": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 117590400
+        },
+        "min": {
+            "value": 0.0,
+            "when": 117590400
+        }
+    },
+    "api_stormy": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 117590400
+        },
+        "min": {
+            "value": 0.0,
+            "when": 117590400
+        }
+    },
+    "api_thundery": {
+        "ave": 0.0,
+        "max": {
+            "value": 0.0,
+            "when": 117590400
+        },
+        "min": {
+            "value": 0.0,
+            "when": 117590400
+        }
+    },
     "appTemp": {
         "ave": 6.6,
         "max": {
@@ -345,7 +415,7 @@
         "api_cold": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -401,7 +471,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -573,7 +643,7 @@
         "api_foggy": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -629,7 +699,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -915,7 +985,7 @@
         "api_hot": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -971,7 +1041,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -1029,7 +1099,7 @@
         "api_rainy": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -1085,7 +1155,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -1143,7 +1213,7 @@
         "api_snowy": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -1199,7 +1269,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -1257,7 +1327,7 @@
         "api_stormy": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -1313,7 +1383,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -1371,7 +1441,7 @@
         "api_thundery": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -1427,7 +1497,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -12781,7 +12851,7 @@
         }
     },
     "ecowitt_wittboy_rain_year": {
-        "ave": 6.4312,
+        "ave": 6.4313,
         "max": {
             "value": 9.4,
             "when": 1748137800
@@ -12957,7 +13027,7 @@
         }
     },
     "lightning_last_det_time": {
-        "ave": 1746196634.6,
+        "ave": 1746196801.0,
         "max": {
             "value": 1748109599.0,
             "when": 1748109600
@@ -12990,7 +13060,7 @@
         }
     },
     "luminosity": {
-        "ave": 9630.0,
+        "ave": 9630.7,
         "max": {
             "value": 125410.0,
             "when": 1747660200
@@ -13122,7 +13192,7 @@
         }
     },
     "netatmo_Chitterne_rain_battery_vp": {
-        "ave": 5147.1557,
+        "ave": 5147.1533,
         "max": {
             "value": 5264.29,
             "when": 1730999100
@@ -13155,7 +13225,7 @@
         }
     },
     "netatmo_Chitterne_wifi_rain": {
-        "ave": 60.0483,
+        "ave": 60.0484,
         "max": {
             "value": 120.0,
             "when": 1731111000
@@ -13350,6 +13420,6 @@
             "value": 0.0,
             "when": 1725030300
         },
-        "total": 641144.3
+        "total": 641144.7
     }
 }

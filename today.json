@@ -10,7 +10,7 @@
             0.0
         ],
         "api_foggy": [
-            0.1
+            0.0
         ],
         "api_frost_grass": [
             0.0
@@ -34,7 +34,7 @@
             0.0
         ],
         "appTemp": [
-            13.2
+            13.3
         ],
         "aq_alder_pollen": [
             0.0
@@ -79,16 +79,16 @@
             0.0
         ],
         "aurora_alerts": [
-            10.2
+            8.9
         ],
         "barometer": [
             1019.3
         ],
         "cloudbase": [
-            336.6
+            334.7
         ],
         "co2": [
-            1751.8
+            1749.8
         ],
         "dateTime": [
             1748300400
@@ -100,7 +100,7 @@
             59.9
         ],
         "ecowitt_gateway_inTemp": [
-            20.1
+            20.0
         ],
         "ecowitt_gateway_pressure": [
             1015.9
@@ -154,10 +154,10 @@
             12.9
         ],
         "ecowitt_wittboy_rain_day": [
-            0.0
+            0.0025
         ],
         "ecowitt_wittboy_rain_event": [
-            0.0
+            0.0025
         ],
         "ecowitt_wittboy_rain_month": [
             0.95
@@ -166,7 +166,7 @@
             0.02
         ],
         "ecowitt_wittboy_rain_week": [
-            0.07
+            0.0725
         ],
         "ecowitt_wittboy_rain_year": [
             9.44
@@ -181,19 +181,19 @@
             0.0
         ],
         "ecowitt_wittboy_windGust": [
-            4.2
+            3.9
         ],
         "ecowitt_wittboy_windSpeed": [
-            3.4
+            3.0
         ],
         "ecowitt_wn34_shed_battery": [
             1.7
         ],
         "ecowitt_wn34_shed_groundTemperature": [
-            60.5
+            60.4
         ],
         "ecowitt_wn34_shed_status": [
-            3.7
+            3.8
         ],
         "feelslike": [
             12.3
@@ -235,16 +235,16 @@
             null
         ],
         "netatmo_Chitterne_co2": [
-            1751.8
+            1749.8
         ],
         "netatmo_Chitterne_inHumidity": [
             55.0
         ],
         "netatmo_Chitterne_inTemp": [
-            21.6
+            21.5
         ],
         "netatmo_Chitterne_noise": [
-            34.3
+            33.8
         ],
         "netatmo_Chitterne_outHumidity": [
             86.0
@@ -253,7 +253,7 @@
             13.5
         ],
         "netatmo_Chitterne_out_battery_vp": [
-            5647.5
+            5647.1
         ],
         "netatmo_Chitterne_pressure": [
             999.0
@@ -262,31 +262,31 @@
             0.0
         ],
         "netatmo_Chitterne_rain_battery_vp": [
-            5008.62
+            5008.465
         ],
         "netatmo_Chitterne_rain_total": [
             0.0
         ],
         "netatmo_Chitterne_wifi_out": [
-            58.5
+            58.6
         ],
         "netatmo_Chitterne_wifi_rain": [
-            64.3333
+            64.25
         ],
         "netatmo_Chitterne_wifi_wind": [
-            62.4
+            62.5
         ],
         "netatmo_Chitterne_windGust": [
-            2.9
+            2.6
         ],
         "netatmo_Chitterne_windSpeed": [
             0.6
         ],
         "netatmo_Chitterne_wind_battery_vp": [
-            5305.7
+            5305.5
         ],
         "noise": [
-            34.3
+            33.8
         ],
         "outHumidity": [
             88.7
@@ -310,25 +310,25 @@
             12.3
         ],
         "wind": [
-            211.6
+            175.2
         ],
         "windGust": [
-            4.3
+            3.9
         ],
         "windSpeed": [
-            3.4
+            3.0
         ],
         "windchill": [
             13.4
         ],
         "windrun": [
-            1.4
+            1.6
         ]
     },
     "on_this_day": {
         "altimeter": {
             "average": {
-                "overall": 1018.6
+                "overall": 1018.5
             },
             "max": {
                 "value": 1021.3,
@@ -341,7 +341,7 @@
         },
         "appTemp": {
             "average": {
-                "overall": 13.2
+                "overall": 13.3
             },
             "max": {
                 "value": 13.7,
@@ -536,7 +536,7 @@
         },
         "aurora_alerts": {
             "average": {
-                "overall": 10.2
+                "overall": 8.9
             },
             "max": {
                 "value": 12.6,
@@ -549,7 +549,7 @@
         },
         "barometer": {
             "average": {
-                "overall": 1018.6
+                "overall": 1018.5
             },
             "max": {
                 "value": 1021.3,
@@ -562,7 +562,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 336.6
+                "overall": 334.7
             },
             "max": {
                 "value": 387.4,
@@ -575,7 +575,7 @@
         },
         "co2": {
             "average": {
-                "overall": 1751.8
+                "overall": 1749.8
             },
             "max": {
                 "value": 1768.0,
@@ -646,8 +646,8 @@
                 "when": 1748300534
             },
             "min": {
-                "value": 1015.9,
-                "when": 1748300893
+                "value": 1015.6,
+                "when": 1748301437
             }
         },
         "ecowitt_wh31_hall_battery": {
@@ -860,11 +860,11 @@
         },
         "ecowitt_wittboy_rain_day": {
             "average": {
-                "overall": 0.0
+                "overall": 0.0025
             },
             "max": {
-                "value": 0.0,
-                "when": 1748300534
+                "value": 0.01,
+                "when": 1748301437
             },
             "min": {
                 "value": 0.0,
@@ -873,11 +873,11 @@
         },
         "ecowitt_wittboy_rain_event": {
             "average": {
-                "overall": 0.0
+                "overall": 0.0025
             },
             "max": {
-                "value": 0.0,
-                "when": 1748300534
+                "value": 0.01,
+                "when": 1748301437
             },
             "min": {
                 "value": 0.0,
@@ -912,11 +912,11 @@
         },
         "ecowitt_wittboy_rain_week": {
             "average": {
-                "overall": 0.07
+                "overall": 0.0725
             },
             "max": {
-                "value": 0.07,
-                "when": 1748300534
+                "value": 0.08,
+                "when": 1748301437
             },
             "min": {
                 "value": 0.07,
@@ -977,7 +977,7 @@
         },
         "ecowitt_wittboy_windGust": {
             "average": {
-                "overall": 4.2
+                "overall": 3.9
             },
             "max": {
                 "value": 4.7,
@@ -990,7 +990,7 @@
         },
         "ecowitt_wittboy_windSpeed": {
             "average": {
-                "overall": 3.4
+                "overall": 3.0
             },
             "max": {
                 "value": 3.8,
@@ -1016,7 +1016,7 @@
         },
         "ecowitt_wn34_shed_groundTemperature": {
             "average": {
-                "overall": 60.5
+                "overall": 60.4
             },
             "max": {
                 "value": 61.0,
@@ -1029,7 +1029,7 @@
         },
         "ecowitt_wn34_shed_status": {
             "average": {
-                "overall": 3.7
+                "overall": 3.8
             },
             "max": {
                 "value": 4.0,
@@ -1205,7 +1205,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1751.8
+                "overall": 1749.8
             },
             "max": {
                 "value": 1768.0,
@@ -1244,15 +1244,15 @@
         },
         "netatmo_Chitterne_noise": {
             "average": {
-                "overall": 34.3
+                "overall": 33.8
             },
             "max": {
                 "value": 35.0,
                 "when": 1748301255
             },
             "min": {
-                "value": 33.0,
-                "when": 1748300715
+                "value": 32.0,
+                "when": 1748301437
             }
         },
         "netatmo_Chitterne_outHumidity": {
@@ -1283,7 +1283,7 @@
         },
         "netatmo_Chitterne_out_battery_vp": {
             "average": {
-                "overall": 5647.5
+                "overall": 5647.1
             },
             "max": {
                 "value": 5652.0,
@@ -1296,7 +1296,7 @@
         },
         "netatmo_Chitterne_pressure": {
             "average": {
-                "overall": 999.0
+                "overall": 998.9
             },
             "max": {
                 "value": 999.0,
@@ -1322,7 +1322,7 @@
         },
         "netatmo_Chitterne_rain_battery_vp": {
             "average": {
-                "overall": 5008.62
+                "overall": 5008.465
             },
             "max": {
                 "value": 5010.0,
@@ -1348,7 +1348,7 @@
         },
         "netatmo_Chitterne_wifi_out": {
             "average": {
-                "overall": 58.5
+                "overall": 58.6
             },
             "max": {
                 "value": 59.0,
@@ -1361,7 +1361,7 @@
         },
         "netatmo_Chitterne_wifi_rain": {
             "average": {
-                "overall": 64.3333
+                "overall": 64.25
             },
             "max": {
                 "value": 65.0,
@@ -1374,7 +1374,7 @@
         },
         "netatmo_Chitterne_wifi_wind": {
             "average": {
-                "overall": 62.4
+                "overall": 62.5
             },
             "max": {
                 "value": 63.0,
@@ -1387,7 +1387,7 @@
         },
         "netatmo_Chitterne_windGust": {
             "average": {
-                "overall": 2.9
+                "overall": 2.6
             },
             "max": {
                 "value": 3.7,
@@ -1413,7 +1413,7 @@
         },
         "netatmo_Chitterne_wind_battery_vp": {
             "average": {
-                "overall": 5305.7
+                "overall": 5305.5
             },
             "max": {
                 "value": 5309.0,
@@ -1426,15 +1426,15 @@
         },
         "noise": {
             "average": {
-                "overall": 34.3
+                "overall": 33.8
             },
             "max": {
                 "value": 35.0,
                 "when": 1748301255
             },
             "min": {
-                "value": 33.0,
-                "when": 1748300715
+                "value": 32.0,
+                "when": 1748301437
             }
         },
         "outHumidity": {
@@ -1465,7 +1465,7 @@
         },
         "pressure": {
             "average": {
-                "overall": 1008.0
+                "overall": 1007.5
             },
             "max": {
                 "value": 1009.1,
@@ -1520,7 +1520,7 @@
         },
         "wind": {
             "average": {
-                "overall": 3.4
+                "overall": 3.0
             },
             "max": {
                 "value": 4.7,
@@ -1533,7 +1533,7 @@
         },
         "windGust": {
             "average": {
-                "overall": 4.3
+                "overall": 3.9
             },
             "max": {
                 "value": 4.7,
@@ -1546,7 +1546,7 @@
         },
         "windSpeed": {
             "average": {
-                "overall": 3.4
+                "overall": 3.0
             },
             "max": {
                 "value": 3.8,
@@ -1571,7 +1571,7 @@
             }
         },
         "windrun": {
-            "value": 1.4
+            "value": 1.6
         }
     }
 }

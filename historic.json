@@ -1,4 +1,840 @@
 {
+    "conditions": {
+        "month": {
+            "1": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 734,
+                "frost_ground": 526,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "10": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 105,
+                "frost_ground": 39,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "11": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 445,
+                "frost_ground": 259,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "12": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 654,
+                "frost_ground": 422,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 662,
+                "frost_ground": 520,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "3": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 567,
+                "frost_ground": 347,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "4": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 348,
+                "frost_ground": 173,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "5": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 73,
+                "frost_ground": 17,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "6": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 1,
+                "frost_ground": 0,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "7": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 0,
+                "frost_ground": 0,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "8": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 0,
+                "frost_ground": 1,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "9": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 2,
+                "frost_ground": 0,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            }
+        },
+        "seasons": {
+            "autumn": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 995,
+                "frost_ground": 568,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "spring": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 575,
+                "frost_ground": 276,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "summer": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 0,
+                "frost_ground": 1,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "winter": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 1950,
+                "frost_ground": 1410,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            }
+        },
+        "year": {
+            "1973": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 98,
+                "frost_ground": 61,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1974": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 62,
+                "frost_ground": 21,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1975": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 76,
+                "frost_ground": 44,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1976": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 71,
+                "frost_ground": 59,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1977": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 73,
+                "frost_ground": 45,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1978": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 75,
+                "frost_ground": 55,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1979": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 99,
+                "frost_ground": 85,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1980": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 91,
+                "frost_ground": 53,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1981": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 80,
+                "frost_ground": 59,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1982": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 75,
+                "frost_ground": 40,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1983": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 67,
+                "frost_ground": 44,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1984": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 90,
+                "frost_ground": 42,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1985": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 72,
+                "frost_ground": 72,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1986": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 74,
+                "frost_ground": 54,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1987": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 69,
+                "frost_ground": 59,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1988": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 69,
+                "frost_ground": 40,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1989": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 68,
+                "frost_ground": 30,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1990": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 56,
+                "frost_ground": 23,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1991": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 78,
+                "frost_ground": 57,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1992": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 77,
+                "frost_ground": 42,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1993": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 68,
+                "frost_ground": 40,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1994": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 67,
+                "frost_ground": 33,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1995": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 76,
+                "frost_ground": 49,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1996": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 90,
+                "frost_ground": 66,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1997": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 64,
+                "frost_ground": 40,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1998": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 58,
+                "frost_ground": 27,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "1999": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 61,
+                "frost_ground": 35,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2000": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 67,
+                "frost_ground": 29,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2001": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 84,
+                "frost_ground": 52,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2002": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 54,
+                "frost_ground": 20,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2003": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 73,
+                "frost_ground": 46,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2004": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 65,
+                "frost_ground": 35,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2005": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 67,
+                "frost_ground": 54,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2006": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 71,
+                "frost_ground": 48,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2007": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 50,
+                "frost_ground": 32,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2008": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 81,
+                "frost_ground": 56,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2009": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 72,
+                "frost_ground": 52,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2010": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 92,
+                "frost_ground": 77,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2011": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 38,
+                "frost_ground": 25,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2012": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 81,
+                "frost_ground": 45,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2013": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 88,
+                "frost_ground": 61,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2014": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 52,
+                "frost_ground": 22,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2015": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 34,
+                "frost_ground": 30,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2016": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 63,
+                "frost_ground": 49,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2017": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 73,
+                "frost_ground": 35,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2018": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 55,
+                "frost_ground": 40,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2019": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 33,
+                "frost_ground": 21,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2020": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 43,
+                "frost_ground": 18,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2021": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 41,
+                "frost_ground": 30,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2022": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 17,
+                "frost_ground": 14,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2023": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 0,
+                "frost_ground": 0,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2024": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 9,
+                "frost_ground": 5,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            },
+            "2025": {
+                "cold": 0,
+                "dew": 0,
+                "foggy": 0,
+                "frost_grass": 92,
+                "frost_ground": 70,
+                "hot": 0,
+                "rainy": 0,
+                "snowy": 0,
+                "stormy": 0,
+                "thundery": 0
+            }
+        }
+    },
     "month": {
         "1": {
             "temperature": {
@@ -223,11 +1059,11 @@
         },
         "aq_ammonia": {
             "average": {
-                "overall": 0.6
+                "overall": 0.7
             },
             "max": {
-                "value": 1.2,
-                "when": 1748334010
+                "value": 1.5,
+                "when": 1748338386
             },
             "min": {
                 "value": 0.5,
@@ -288,11 +1124,11 @@
         },
         "aq_grass_pollen": {
             "average": {
-                "overall": 0.7
+                "overall": 0.8
             },
             "max": {
-                "value": 6.7,
-                "when": 1748334010
+                "value": 10.5,
+                "when": 1748338386
             },
             "min": {
                 "value": 0.0,
@@ -369,8 +1205,8 @@
                 "overall": 0.1
             },
             "max": {
-                "value": 0.6,
-                "when": 1748334010
+                "value": 0.8,
+                "when": 1748338386
             },
             "min": {
                 "value": 0.0,
@@ -379,11 +1215,11 @@
         },
         "aq_uv_index_clear_sky": {
             "average": {
-                "overall": 0.3
+                "overall": 0.4
             },
             "max": {
-                "value": 2.5,
-                "when": 1748334010
+                "value": 4.0,
+                "when": 1748338386
             },
             "min": {
                 "value": 0.0,
@@ -418,7 +1254,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 358.3
+                "overall": 359.5
             },
             "max": {
                 "value": 573.8,
@@ -431,7 +1267,7 @@
         },
         "co2": {
             "average": {
-                "overall": 1397.5
+                "overall": 1390.6
             },
             "max": {
                 "value": 1769.0,
@@ -495,7 +1331,7 @@
         },
         "ecowitt_gateway_pressure": {
             "average": {
-                "overall": 1016.5
+                "overall": 1016.6
             },
             "max": {
                 "value": 1017.9,
@@ -703,7 +1539,7 @@
         },
         "ecowitt_wittboy_outTemp": {
             "average": {
-                "overall": 12.8
+                "overall": 12.9
             },
             "max": {
                 "value": 14.3,
@@ -781,7 +1617,7 @@
         },
         "ecowitt_wittboy_rain_year": {
             "average": {
-                "overall": 9.4507
+                "overall": 9.4508
             },
             "max": {
                 "value": 9.46,
@@ -820,7 +1656,7 @@
         },
         "ecowitt_wittboy_uvr": {
             "average": {
-                "overall": 1.1
+                "overall": 1.0
             },
             "max": {
                 "value": 9.9,
@@ -833,7 +1669,7 @@
         },
         "ecowitt_wittboy_windDir": {
             "average": {
-                "overall": 194.4
+                "overall": 194.5
             },
             "max": {
                 "value": 359.0,
@@ -846,7 +1682,7 @@
         },
         "ecowitt_wittboy_windGust": {
             "average": {
-                "overall": 4.2
+                "overall": 4.1
             },
             "max": {
                 "value": 7.6,
@@ -859,7 +1695,7 @@
         },
         "ecowitt_wittboy_windGustDir": {
             "average": {
-                "overall": 194.4
+                "overall": 194.5
             },
             "max": {
                 "value": 359.0,
@@ -1054,7 +1890,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 4261.0
+                "overall": 4303.0
             },
             "max": {
                 "value": 22810.0,
@@ -1087,7 +1923,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1397.5
+                "overall": 1390.6
             },
             "max": {
                 "value": 1769.0,
@@ -1139,7 +1975,7 @@
         },
         "netatmo_Chitterne_outHumidity": {
             "average": {
-                "overall": 85.4
+                "overall": 85.3
             },
             "max": {
                 "value": 89.0,
@@ -1204,7 +2040,7 @@
         },
         "netatmo_Chitterne_rain_battery_vp": {
             "average": {
-                "overall": 5005.3965
+                "overall": 5005.385
             },
             "max": {
                 "value": 5010.0,
@@ -1243,7 +2079,7 @@
         },
         "netatmo_Chitterne_wifi_rain": {
             "average": {
-                "overall": 63.8384
+                "overall": 63.8315
             },
             "max": {
                 "value": 66.0,
@@ -1269,7 +2105,7 @@
         },
         "netatmo_Chitterne_windDir": {
             "average": {
-                "overall": 74.7
+                "overall": 75.0
             },
             "max": {
                 "value": 161.0,
@@ -1295,7 +2131,7 @@
         },
         "netatmo_Chitterne_windGustDir": {
             "average": {
-                "overall": 78.1
+                "overall": 78.8
             },
             "max": {
                 "value": 349.0,
@@ -1347,7 +2183,7 @@
         },
         "outHumidity": {
             "average": {
-                "overall": 87.6
+                "overall": 87.5
             },
             "max": {
                 "value": 91.7,
@@ -1389,7 +2225,7 @@
         },
         "rainRate": {
             "average": {
-                "overall": 0.0666
+                "overall": 0.0661
             },
             "max": {
                 "value": 1.2192,
@@ -1441,7 +2277,7 @@
         },
         "windDir": {
             "average": {
-                "overall": 194.4
+                "overall": 194.5
             },
             "max": {
                 "value": 359.0,
@@ -1454,7 +2290,7 @@
         },
         "windGust": {
             "average": {
-                "overall": 4.2
+                "overall": 4.1
             },
             "max": {
                 "value": 7.6,
@@ -1467,7 +2303,7 @@
         },
         "windGustDir": {
             "average": {
-                "overall": 193.1
+                "overall": 193.2
             },
             "max": {
                 "value": 359.0,
@@ -1505,7 +2341,7 @@
             }
         },
         "windrun": {
-            "value": 50.3
+            "value": 50.5
         },
         "zambretti": {
             "average": "O"

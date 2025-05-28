@@ -1,71 +1,511 @@
 {
     "charts": {
-        "altimeter": [],
-        "api_clouds": [],
-        "appTemp": [],
-        "barometer": [],
-        "cloudbase": [],
-        "co2": [],
-        "dateTime": [],
-        "dewpoint": [],
-        "feelslike": [],
-        "heatindex": [],
-        "humidex": [],
-        "inDewpoint": [],
-        "inHumidity": [],
-        "inTemp": [],
-        "lightning_distance": [],
-        "lightning_last_det_time": [],
-        "lightning_strike_count": [],
-        "lightningcount": [],
-        "luminosity": [],
-        "noise": [],
-        "outHumidity": [],
-        "outTemp": [],
-        "pressure": [],
-        "rain": [],
-        "rainRate": [],
-        "rain_total": [],
-        "wetbulb": [],
-        "wind": [],
-        "windGust": [],
-        "windSpeed": [],
-        "windchill": [],
-        "windrun": []
+        "altimeter": [
+            1026.1
+        ],
+        "api_cold": [
+            0.0
+        ],
+        "api_dew": [
+            0.0
+        ],
+        "api_foggy": [
+            0.0
+        ],
+        "api_frost_grass": [
+            0.0
+        ],
+        "api_frost_ground": [
+            0.0
+        ],
+        "api_hot": [
+            0.0
+        ],
+        "api_rainy": [
+            0.2
+        ],
+        "api_snowy": [
+            0.0
+        ],
+        "api_stormy": [
+            0.0
+        ],
+        "api_thundery": [
+            0.0
+        ],
+        "appTemp": [
+            13.6
+        ],
+        "barometer": [
+            1026.1
+        ],
+        "cloudbase": [
+            410.5
+        ],
+        "co2": [
+            1028.0
+        ],
+        "dateTime": [
+            1748473200
+        ],
+        "dewpoint": [
+            11.2
+        ],
+        "feelslike": [
+            12.2
+        ],
+        "heatindex": [
+            13.3
+        ],
+        "humidex": [
+            15.5
+        ],
+        "inDewpoint": [
+            14.6
+        ],
+        "inHumidity": [
+            62.3
+        ],
+        "inTemp": [
+            22.3
+        ],
+        "lightning_distance": [
+            20.0
+        ],
+        "lightning_last_det_time": [
+            1748350547.0
+        ],
+        "lightning_strike_count": [
+            0.0
+        ],
+        "lightningcount": [
+            0.0
+        ],
+        "luminosity": [
+            0.0
+        ],
+        "noise": [
+            32.0
+        ],
+        "outHumidity": [
+            85.2
+        ],
+        "outTemp": [
+            13.6
+        ],
+        "pressure": [
+            1015.9
+        ],
+        "rain": [
+            0.0
+        ],
+        "rainRate": [
+            0.0
+        ],
+        "rain_total": [
+            0.0
+        ],
+        "wetbulb": [
+            12.2
+        ],
+        "wind": [
+            176.5
+        ],
+        "windGust": [
+            1.7
+        ],
+        "windSpeed": [
+            1.6
+        ],
+        "windchill": [
+            13.6
+        ],
+        "windrun": [
+            0.5
+        ]
     },
     "on_this_day": {
-        "altimeter": {},
-        "appTemp": {},
-        "barometer": {},
-        "cloudbase": {},
-        "co2": {},
-        "conditions": {
-            "clouds": null
+        "altimeter": {
+            "average": {
+                "overall": 1027.6
+            },
+            "max": {
+                "value": 1028.1,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 1021.3,
+                "when": 1748473537
+            }
         },
-        "dewpoint": {},
-        "feelslike": {},
-        "heatindex": {},
-        "humidex": {},
-        "inDewpoint": {},
-        "inHumidity": {},
-        "inTemp": {},
-        "lightning_distance": {},
-        "lightning_last_det_time": {},
-        "lightning_strike_count": {},
-        "lightningcount": {},
-        "luminosity": {},
-        "noise": {},
-        "outHumidity": {},
-        "outTemp": {},
-        "pressure": {},
-        "rain": null,
-        "rainRate": {},
-        "rain_total": {},
-        "wetbulb": {},
-        "wind": {},
-        "windGust": {},
-        "windSpeed": {},
-        "windchill": {},
-        "windrun": null
+        "appTemp": {
+            "average": {
+                "overall": 13.6
+            },
+            "max": {
+                "value": 14.4,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 13.4,
+                "when": 1748473718
+            }
+        },
+        "barometer": {
+            "average": {
+                "overall": 1027.6
+            },
+            "max": {
+                "value": 1028.1,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 1021.3,
+                "when": 1748473537
+            }
+        },
+        "cloudbase": {
+            "average": {
+                "overall": 410.5
+            },
+            "max": {
+                "value": 479.0,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 402.9,
+                "when": 1748473537
+            }
+        },
+        "co2": {
+            "average": {
+                "overall": 1028.0
+            },
+            "max": {
+                "value": 1032.0,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 1021.0,
+                "when": 1748473537
+            }
+        },
+        "conditions": {
+            "cold": false,
+            "dew": false,
+            "foggy": false,
+            "frost_grass": false,
+            "frost_ground": false,
+            "hot": false,
+            "rainy": false,
+            "snowy": false,
+            "stormy": false,
+            "thundery": false
+        },
+        "dewpoint": {
+            "average": {
+                "overall": 11.2
+            },
+            "max": {
+                "value": 11.2,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 11.1,
+                "when": 1748473356
+            }
+        },
+        "feelslike": {
+            "average": {
+                "overall": 12.2
+            },
+            "max": {
+                "value": 12.5,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 12.2,
+                "when": 1748473800
+            }
+        },
+        "heatindex": {
+            "average": {
+                "overall": 13.3
+            },
+            "max": {
+                "value": 13.8,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 13.2,
+                "when": 1748473537
+            }
+        },
+        "humidex": {
+            "average": {
+                "overall": 15.5
+            },
+            "max": {
+                "value": 16.1,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 15.4,
+                "when": 1748473537
+            }
+        },
+        "inDewpoint": {
+            "average": {
+                "overall": 14.6
+            },
+            "max": {
+                "value": 14.7,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 13.1,
+                "when": 1748473537
+            }
+        },
+        "inHumidity": {
+            "average": {
+                "overall": 62.3
+            },
+            "max": {
+                "value": 62.3,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 56.0,
+                "when": 1748473537
+            }
+        },
+        "inTemp": {
+            "average": {
+                "overall": 22.3
+            },
+            "max": {
+                "value": 22.3,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 22.3,
+                "when": 1748473356
+            }
+        },
+        "lightning_distance": {
+            "average": {
+                "overall": 20.0
+            },
+            "max": {
+                "value": 20.0,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 20.0,
+                "when": 1748473356
+            }
+        },
+        "lightning_last_det_time": {
+            "average": {
+                "overall": 1748350547.0
+            },
+            "max": {
+                "value": 1748350547.0,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 1748350547.0,
+                "when": 1748473356
+            }
+        },
+        "lightning_strike_count": {
+            "average": {
+                "overall": 0.0
+            },
+            "max": {
+                "value": 0.0,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1748473356
+            }
+        },
+        "lightningcount": {
+            "average": {
+                "overall": 0.0
+            },
+            "max": {
+                "value": 0.0,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1748473356
+            }
+        },
+        "luminosity": {
+            "average": {
+                "overall": 0.0
+            },
+            "max": {
+                "value": 0.0,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1748473356
+            }
+        },
+        "noise": {
+            "average": {
+                "overall": 32.0
+            },
+            "max": {
+                "value": 32.0,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 32.0,
+                "when": 1748473356
+            }
+        },
+        "outHumidity": {
+            "average": {
+                "overall": 85.2
+            },
+            "max": {
+                "value": 85.3,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 82.0,
+                "when": 1748473537
+            }
+        },
+        "outTemp": {
+            "average": {
+                "overall": 13.6
+            },
+            "max": {
+                "value": 14.2,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 13.6,
+                "when": 1748473537
+            }
+        },
+        "pressure": {
+            "average": {
+                "overall": 1015.9
+            },
+            "max": {
+                "value": 1015.9,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 1009.1,
+                "when": 1748473537
+            }
+        },
+        "rain": {
+            "value": 0.0
+        },
+        "rainRate": {
+            "average": {
+                "overall": 0.0
+            },
+            "max": {
+                "value": 0.0,
+                "when": 1748473356
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1748473356
+            }
+        },
+        "rain_total": {
+            "average": {
+                "overall": 0.0
+            },
+            "max": {
+                "value": 0.0,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 0.0,
+                "when": 1748473537
+            }
+        },
+        "wetbulb": {
+            "average": {
+                "overall": 12.2
+            },
+            "max": {
+                "value": 12.5,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 12.2,
+                "when": 1748473800
+            }
+        },
+        "wind": {
+            "average": {
+                "overall": 1.6
+            },
+            "max": {
+                "value": 1.8,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 0.6,
+                "when": 1748473537
+            }
+        },
+        "windGust": {
+            "average": {
+                "overall": 1.7
+            },
+            "max": {
+                "value": 1.8,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 1.2,
+                "when": 1748473537
+            }
+        },
+        "windSpeed": {
+            "average": {
+                "overall": 1.6
+            },
+            "max": {
+                "value": 1.6,
+                "when": 1748473500
+            },
+            "min": {
+                "value": 0.6,
+                "when": 1748473537
+            }
+        },
+        "windchill": {
+            "average": {
+                "overall": 13.6
+            },
+            "max": {
+                "value": 14.2,
+                "when": 1748473537
+            },
+            "min": {
+                "value": 13.6,
+                "when": 1748473537
+            }
+        },
+        "windrun": {
+            "value": 0.4
+        }
     }
 }

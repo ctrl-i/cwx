@@ -68,12 +68,12 @@
         "cloudbase": [
             276.8,
             286.9,
-            247.6
+            247.8
         ],
         "co2": [
             1887.4,
             1840.6,
-            1898.5
+            1881.5
         ],
         "dateTime": [
             1748386800,
@@ -98,7 +98,7 @@
         "humidex": [
             17.8,
             17.6,
-            17.2
+            17.1
         ],
         "inDewpoint": [
             12.8,
@@ -153,12 +153,12 @@
         "outTemp": [
             14.8,
             14.6,
-            14.3
+            14.2
         ],
         "pressure": [
             1009.1,
             1009.1,
-            1009.1
+            1005.8
         ],
         "rain": [
             0.0,
@@ -168,12 +168,12 @@
         "rainRate": [
             0.0,
             0.0,
-            6.8072
+            5.4458
         ],
         "rain_total": [
             0.0,
             0.0,
-            0.0362
+            0.041
         ],
         "wetbulb": [
             13.9,
@@ -183,17 +183,17 @@
         "wind": [
             184.1,
             180.3,
-            215.7
+            215.4
         ],
         "windGust": [
             3.8,
             3.9,
-            4.6
+            4.5
         ],
         "windSpeed": [
             2.6,
             3.0,
-            3.4
+            3.2
         ],
         "windchill": [
             14.8,
@@ -203,13 +203,13 @@
         "windrun": [
             4.3,
             4.8,
-            3.5
+            4.3
         ]
     },
     "on_this_day": {
         "altimeter": {
             "average": {
-                "overall": 1019.5
+                "overall": 1019.3
             },
             "max": {
                 "value": 1021.3,
@@ -235,7 +235,7 @@
         },
         "barometer": {
             "average": {
-                "overall": 1019.5
+                "overall": 1019.3
             },
             "max": {
                 "value": 1021.3,
@@ -248,7 +248,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 273.3
+                "overall": 271.8
             },
             "max": {
                 "value": 325.2,
@@ -256,20 +256,20 @@
             },
             "min": {
                 "value": 240.0,
-                "when": 1748396397
+                "when": 1748396759
             }
         },
         "co2": {
             "average": {
-                "overall": 1872.6
+                "overall": 1869.1
             },
             "max": {
                 "value": 1943.0,
                 "when": 1748395494
             },
             "min": {
-                "value": 1803.0,
-                "when": 1748392062
+                "value": 1794.0,
+                "when": 1748396759
             }
         },
         "conditions": {
@@ -306,8 +306,8 @@
                 "when": 1748386820
             },
             "min": {
-                "value": 13.3,
-                "when": 1748395853
+                "value": 13.2,
+                "when": 1748396759
             }
         },
         "heatindex": {
@@ -319,21 +319,21 @@
                 "when": 1748386820
             },
             "min": {
-                "value": 13.9,
-                "when": 1748396397
+                "value": 13.8,
+                "when": 1748396759
             }
         },
         "humidex": {
             "average": {
-                "overall": 17.6
+                "overall": 17.5
             },
             "max": {
                 "value": 17.9,
                 "when": 1748386820
             },
             "min": {
-                "value": 16.7,
-                "when": 1748396397
+                "value": 16.6,
+                "when": 1748396759
             }
         },
         "inDewpoint": {
@@ -341,8 +341,8 @@
                 "overall": 12.9
             },
             "max": {
-                "value": 13.1,
-                "when": 1748394950
+                "value": 13.2,
+                "when": 1748396936
             },
             "min": {
                 "value": 11.4,
@@ -367,8 +367,8 @@
                 "overall": 20.3
             },
             "max": {
-                "value": 20.4,
-                "when": 1748394950
+                "value": 20.5,
+                "when": 1748396936
             },
             "min": {
                 "value": 20.2,
@@ -442,7 +442,7 @@
         },
         "noise": {
             "average": {
-                "overall": 33.0
+                "overall": 32.9
             },
             "max": {
                 "value": 48.0,
@@ -455,7 +455,7 @@
         },
         "outHumidity": {
             "average": {
-                "overall": 91.6
+                "overall": 91.7
             },
             "max": {
                 "value": 93.0,
@@ -475,13 +475,13 @@
                 "when": 1748386820
             },
             "min": {
-                "value": 14.0,
-                "when": 1748396397
+                "value": 13.9,
+                "when": 1748396759
             }
         },
         "pressure": {
             "average": {
-                "overall": 1008.3
+                "overall": 1008.1
             },
             "max": {
                 "value": 1009.1,
@@ -497,7 +497,7 @@
         },
         "rainRate": {
             "average": {
-                "overall": 1.7018
+                "overall": 1.6017
             },
             "max": {
                 "value": 10.9728,
@@ -510,7 +510,7 @@
         },
         "rain_total": {
             "average": {
-                "overall": 0.0097
+                "overall": 0.0128
             },
             "max": {
                 "value": 0.06,
@@ -530,13 +530,13 @@
                 "when": 1748386820
             },
             "min": {
-                "value": 13.3,
-                "when": 1748395853
+                "value": 13.2,
+                "when": 1748396759
             }
         },
         "wind": {
             "average": {
-                "overall": 3.0
+                "overall": 2.9
             },
             "max": {
                 "value": 7.8,
@@ -549,7 +549,7 @@
         },
         "windGust": {
             "average": {
-                "overall": 4.1
+                "overall": 4.0
             },
             "max": {
                 "value": 7.8,
@@ -562,7 +562,7 @@
         },
         "windSpeed": {
             "average": {
-                "overall": 3.0
+                "overall": 2.9
             },
             "max": {
                 "value": 4.7,
@@ -582,12 +582,12 @@
                 "when": 1748386820
             },
             "min": {
-                "value": 14.0,
-                "when": 1748396397
+                "value": 13.9,
+                "when": 1748396759
             }
         },
         "windrun": {
-            "value": 12.7
+            "value": 13.4
         }
     }
 }

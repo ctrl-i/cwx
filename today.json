@@ -1,127 +1,168 @@
 {
     "charts": {
         "altimeter": [
+            1026.1,
             1026.1
         ],
         "api_cold": [
-            null
+            0.0,
+            0.0
         ],
         "api_dew": [
-            null
+            0.0,
+            0.0
         ],
         "api_foggy": [
-            null
+            0.0,
+            0.0
         ],
         "api_frost_grass": [
+            0.0,
             0.0
         ],
         "api_frost_ground": [
+            0.0,
             0.0
         ],
         "api_hot": [
-            null
+            0.0,
+            0.0
         ],
         "api_rainy": [
-            null
+            0.3,
+            0.5
         ],
         "api_snowy": [
-            null
+            0.0,
+            0.0
         ],
         "api_stormy": [
-            null
+            0.0,
+            0.0
         ],
         "api_thundery": [
-            null
+            0.0,
+            0.0
         ],
         "appTemp": [
-            13.7
+            13.7,
+            13.6
         ],
         "barometer": [
+            1026.1,
             1026.1
         ],
         "cloudbase": [
-            396.4
+            396.4,
+            375.3
         ],
         "co2": [
-            1015.6
+            1015.6,
+            1034.0
         ],
         "dateTime": [
-            1748473200
+            1748473200,
+            1748476800
         ],
         "dewpoint": [
-            11.3
+            11.3,
+            11.4
         ],
         "feelslike": [
+            12.3,
             12.3
         ],
         "heatindex": [
+            13.3,
             13.3
         ],
         "humidex": [
+            15.6,
             15.6
         ],
         "inDewpoint": [
+            14.6,
             14.6
         ],
         "inHumidity": [
+            62.3,
             62.3
         ],
         "inTemp": [
+            22.2,
             22.2
         ],
         "lightning_distance": [
+            20.0,
             20.0
         ],
         "lightning_last_det_time": [
+            1748350547.0,
             1748350547.0
         ],
         "lightning_strike_count": [
+            0.0,
             0.0
         ],
         "lightningcount": [
+            0.0,
             0.0
         ],
         "luminosity": [
+            0.0,
             0.0
         ],
         "noise": [
+            32.5,
             32.5
         ],
         "outHumidity": [
-            85.9
+            85.9,
+            86.8
         ],
         "outTemp": [
+            13.6,
             13.6
         ],
         "pressure": [
+            1015.9,
             1015.9
         ],
         "rain": [
+            0.0,
             0.0
         ],
         "rainRate": [
+            0.0,
             0.0
         ],
         "rain_total": [
+            0.0,
             0.0
         ],
         "wetbulb": [
+            12.3,
             12.3
         ],
         "wind": [
-            181.4
+            181.4,
+            181.0
         ],
         "windGust": [
-            1.8
+            1.8,
+            2.0
         ],
         "windSpeed": [
-            1.6
+            1.6,
+            2.0
         ],
         "windchill": [
-            13.7
+            13.7,
+            13.6
         ],
         "windrun": [
-            2.6
+            2.6,
+            0.5
         ]
     },
     "on_this_day": {
@@ -140,7 +181,7 @@
         },
         "appTemp": {
             "average": {
-                "overall": 13.7
+                "overall": 13.6
             },
             "max": {
                 "value": 14.5,
@@ -148,7 +189,7 @@
             },
             "min": {
                 "value": 13.4,
-                "when": 1748473718
+                "when": 1748476966
             }
         },
         "barometer": {
@@ -166,24 +207,24 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 396.4
+                "overall": 393.4
             },
             "max": {
                 "value": 479.0,
                 "when": 1748473537
             },
             "min": {
-                "value": 372.4,
-                "when": 1748475882
+                "value": 365.8,
+                "when": 1748476966
             }
         },
         "co2": {
             "average": {
-                "overall": 1015.6
+                "overall": 1018.3
             },
             "max": {
-                "value": 1044.0,
-                "when": 1748476063
+                "value": 1045.0,
+                "when": 1748477147
             },
             "min": {
                 "value": 942.0,
@@ -373,11 +414,11 @@
         },
         "outHumidity": {
             "average": {
-                "overall": 85.9
+                "overall": 86.0
             },
             "max": {
-                "value": 86.7,
-                "when": 1748475882
+                "value": 87.0,
+                "when": 1748476966
             },
             "min": {
                 "value": 82.0,
@@ -454,7 +495,7 @@
         },
         "wind": {
             "average": {
-                "overall": 1.6
+                "overall": 1.7
             },
             "max": {
                 "value": 2.2,
@@ -467,7 +508,7 @@
         },
         "windGust": {
             "average": {
-                "overall": 1.8
+                "overall": 1.9
             },
             "max": {
                 "value": 2.2,
@@ -480,11 +521,11 @@
         },
         "windSpeed": {
             "average": {
-                "overall": 1.6
+                "overall": 1.7
             },
             "max": {
-                "value": 1.8,
-                "when": 1748474100
+                "value": 2.0,
+                "when": 1748477100
             },
             "min": {
                 "value": 0.6,
@@ -493,7 +534,7 @@
         },
         "windchill": {
             "average": {
-                "overall": 13.7
+                "overall": 13.6
             },
             "max": {
                 "value": 14.3,
@@ -505,7 +546,7 @@
             }
         },
         "windrun": {
-            "value": 2.6
+            "value": 3.1
         }
     }
 }

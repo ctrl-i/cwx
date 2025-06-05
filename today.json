@@ -3,7 +3,7 @@
         "altimeter": [
             1012.5,
             1012.5,
-            1015.9
+            1012.5
         ],
         "api_cold": [
             0.0,
@@ -133,17 +133,17 @@
         "barometer": [
             1012.5,
             1012.5,
-            1015.9
+            1012.5
         ],
         "cloudbase": [
             324.4,
             298.8,
-            292.9
+            300.5
         ],
         "co2": [
             1113.7,
             1129.2,
-            1134.0
+            1132.2
         ],
         "dateTime": [
             1749078000,
@@ -233,7 +233,7 @@
         "ecowitt_wh57_lightning_status": [
             3.8,
             4.0,
-            3.0
+            3.5
         ],
         "ecowitt_wittboy_battery": [
             3.3,
@@ -298,12 +298,12 @@
         "ecowitt_wittboy_windGust": [
             2.4,
             2.8,
-            2.0
+            2.3
         ],
         "ecowitt_wittboy_windSpeed": [
             2.1,
             2.2,
-            1.3
+            1.8
         ],
         "ecowitt_wn34_shed_battery": [
             1.7,
@@ -313,7 +313,7 @@
         "ecowitt_wn34_shed_groundTemperature": [
             59.9,
             59.2,
-            59.0
+            58.9
         ],
         "ecowitt_wn34_shed_status": [
             3.7,
@@ -338,7 +338,7 @@
         "inDewpoint": [
             13.6,
             13.5,
-            13.6
+            13.4
         ],
         "inHumidity": [
             61.0,
@@ -383,7 +383,7 @@
         "netatmo_Chitterne_co2": [
             1113.7,
             1129.2,
-            1134.0
+            1132.2
         ],
         "netatmo_Chitterne_inHumidity": [
             54.0,
@@ -413,7 +413,7 @@
         "netatmo_Chitterne_out_battery_vp": [
             5643.6,
             5645.5,
-            5642.0
+            5644.0
         ],
         "netatmo_Chitterne_pressure": [
             992.2,
@@ -438,7 +438,7 @@
         "netatmo_Chitterne_wifi_out": [
             56.0,
             55.5,
-            55.0
+            55.5
         ],
         "netatmo_Chitterne_wifi_rain": [
             65.7558,
@@ -508,17 +508,17 @@
         "wind": [
             192.2,
             199.7,
-            210.0
+            205.6
         ],
         "windGust": [
             2.4,
             2.8,
-            2.0
+            2.3
         ],
         "windSpeed": [
             2.1,
             2.2,
-            1.3
+            1.8
         ],
         "windchill": [
             12.4,
@@ -528,13 +528,13 @@
         "windrun": [
             3.4,
             3.5,
-            0.2
+            0.5
         ]
     },
     "on_this_day": {
         "altimeter": {
             "average": {
-                "overall": 1013.6
+                "overall": 1013.5
             },
             "max": {
                 "value": 1014.6,
@@ -742,7 +742,7 @@
         },
         "barometer": {
             "average": {
-                "overall": 1013.6
+                "overall": 1013.5
             },
             "max": {
                 "value": 1014.6,
@@ -755,7 +755,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 310.8
+                "overall": 310.7
             },
             "max": {
                 "value": 431.1,
@@ -768,7 +768,7 @@
         },
         "co2": {
             "average": {
-                "overall": 1122.0
+                "overall": 1122.3
             },
             "max": {
                 "value": 1176.0,
@@ -819,7 +819,7 @@
         },
         "ecowitt_gateway_inTemp": {
             "average": {
-                "overall": 18.9
+                "overall": 18.8
             },
             "max": {
                 "value": 19.1,
@@ -839,8 +839,8 @@
                 "when": 1749078127
             },
             "min": {
-                "value": 1009.5,
-                "when": 1749083732
+                "value": 1009.1,
+                "when": 1749085717
             }
         },
         "ecowitt_wh31_hall_battery": {
@@ -930,8 +930,8 @@
                 "when": 1749078127
             },
             "min": {
-                "value": 12.5,
-                "when": 1749081740
+                "value": 12.4,
+                "when": 1749085717
             }
         },
         "ecowitt_wh31_patio_status": {
@@ -1209,15 +1209,15 @@
         },
         "ecowitt_wn34_shed_groundTemperature": {
             "average": {
-                "overall": 59.6
+                "overall": 59.5
             },
             "max": {
                 "value": 60.6,
                 "when": 1749078485
             },
             "min": {
-                "value": 58.6,
-                "when": 1749084634
+                "value": 58.5,
+                "when": 1749085717
             }
         },
         "ecowitt_wn34_shed_status": {
@@ -1385,7 +1385,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 1122.0
+                "overall": 1122.3
             },
             "max": {
                 "value": 1176.0,
@@ -1450,7 +1450,7 @@
         },
         "netatmo_Chitterne_outTemp": {
             "average": {
-                "overall": 12.7
+                "overall": 12.6
             },
             "max": {
                 "value": 13.3,
@@ -1502,7 +1502,7 @@
         },
         "netatmo_Chitterne_rain_battery_vp": {
             "average": {
-                "overall": 4985.5888
+                "overall": 4985.6046
             },
             "max": {
                 "value": 4988.0,
@@ -1541,7 +1541,7 @@
         },
         "netatmo_Chitterne_wifi_rain": {
             "average": {
-                "overall": 64.7628
+                "overall": 64.695
             },
             "max": {
                 "value": 66.0,
@@ -1619,7 +1619,7 @@
         },
         "outHumidity": {
             "average": {
-                "overall": 89.9
+                "overall": 90.0
             },
             "max": {
                 "value": 91.0,
@@ -1751,7 +1751,7 @@
             }
         },
         "windrun": {
-            "value": 7.0
+            "value": 7.3
         }
     }
 }

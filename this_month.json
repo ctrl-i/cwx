@@ -906,7 +906,7 @@
                 3.0,
                 3.0,
                 3.0,
-                3.0
+                1.0
             ]
         },
         "ecowitt_wh57_lightning_battery": {
@@ -1037,7 +1037,7 @@
                 0.17,
                 0.2,
                 0.48,
-                0.52
+                0.53
             ],
             "min": [
                 0.0,
@@ -1057,7 +1057,7 @@
                 0.17,
                 0.37,
                 0.65,
-                0.69
+                0.7
             ],
             "min": [
                 1.18,
@@ -1097,7 +1097,7 @@
                 0.17,
                 0.37,
                 0.65,
-                0.69
+                0.7
             ],
             "min": [
                 0.31,
@@ -1157,7 +1157,7 @@
                 11.0,
                 8.0,
                 7.0,
-                0.0
+                1.0
             ],
             "min": [
                 0.0,
@@ -1177,7 +1177,7 @@
                 470.7,
                 313.8,
                 273.4,
-                0.0
+                9.9
             ],
             "min": [
                 0.0,
@@ -1497,7 +1497,7 @@
                 160790.0,
                 110050.0,
                 100920.0,
-                9910.0
+                14860.0
             ],
             "min": [
                 0.0,
@@ -1817,7 +1817,7 @@
                 65.0,
                 120.0,
                 120.0,
-                63.0
+                67.0
             ],
             "min": [
                 57.0,
@@ -2374,7 +2374,7 @@
         },
         "cloudbase": {
             "average": {
-                "overall": 646.0
+                "overall": 645.7
             },
             "max": {
                 "value": 2004.2,
@@ -2387,7 +2387,7 @@
         },
         "co2": {
             "average": {
-                "overall": 825.7
+                "overall": 825.8
             },
             "max": {
                 "value": 1545.0,
@@ -2581,7 +2581,7 @@
         },
         "ecowitt_wh51_patio_outGroundHumidity": {
             "average": {
-                "overall": 11.9
+                "overall": 12.0
             },
             "max": {
                 "value": 31.0,
@@ -2601,8 +2601,8 @@
                 "when": 1748732416
             },
             "min": {
-                "value": 3.0,
-                "when": 1748741144
+                "value": 1.0,
+                "when": 1749191461
             }
         },
         "ecowitt_wh57_lightning_battery": {
@@ -2685,11 +2685,11 @@
         },
         "ecowitt_wittboy_rain_event": {
             "average": {
-                "overall": 0.1451
+                "overall": 0.1453
             },
             "max": {
-                "value": 0.52,
-                "when": 1749188525
+                "value": 0.53,
+                "when": 1749191461
             },
             "min": {
                 "value": 0.0,
@@ -2698,11 +2698,11 @@
         },
         "ecowitt_wittboy_rain_month": {
             "average": {
-                "overall": 0.2039
+                "overall": 0.2042
             },
             "max": {
-                "value": 0.69,
-                "when": 1749188525
+                "value": 0.7,
+                "when": 1749191461
             },
             "min": {
                 "value": 0.0,
@@ -2724,11 +2724,11 @@
         },
         "ecowitt_wittboy_rain_week": {
             "average": {
-                "overall": 0.2039
+                "overall": 0.2042
             },
             "max": {
-                "value": 0.69,
-                "when": 1749188525
+                "value": 0.7,
+                "when": 1749191461
             },
             "min": {
                 "value": 0.0,
@@ -2737,7 +2737,7 @@
         },
         "ecowitt_wittboy_rain_year": {
             "average": {
-                "overall": 9.8766
+                "overall": 9.8769
             },
             "max": {
                 "value": 10.37,
@@ -2971,7 +2971,7 @@
         },
         "lightning_last_det_time": {
             "average": {
-                "overall": 1748471414.8
+                "overall": 1748471855.6
             },
             "max": {
                 "value": 1749131850.0,
@@ -3010,7 +3010,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 16274.0
+                "overall": 16270.7
             },
             "max": {
                 "value": 160790.0,
@@ -3030,7 +3030,7 @@
         },
         "netatmo_Chitterne_co2": {
             "average": {
-                "overall": 825.7
+                "overall": 825.8
             },
             "max": {
                 "value": 1545.0,
@@ -3082,7 +3082,7 @@
         },
         "netatmo_Chitterne_outHumidity": {
             "average": {
-                "overall": 73.9
+                "overall": 74.0
             },
             "max": {
                 "value": 92.0,
@@ -3147,7 +3147,7 @@
         },
         "netatmo_Chitterne_rain_battery_vp": {
             "average": {
-                "overall": 4990.8297
+                "overall": 4990.8162
             },
             "max": {
                 "value": 5012.0,
@@ -3186,7 +3186,7 @@
         },
         "netatmo_Chitterne_wifi_rain": {
             "average": {
-                "overall": 63.8798
+                "overall": 63.8786
             },
             "max": {
                 "value": 120.0,
@@ -3212,7 +3212,7 @@
         },
         "netatmo_Chitterne_windDir": {
             "average": {
-                "overall": 63.0
+                "overall": 63.1
             },
             "max": {
                 "value": 351.0,
@@ -3332,7 +3332,7 @@
         },
         "rainRate": {
             "average": {
-                "overall": 0.3717
+                "overall": 0.3715
             },
             "max": {
                 "value": 21.6408,
@@ -3448,7 +3448,7 @@
             }
         },
         "windrun": {
-            "value": 506.8
+            "value": 507.3
         },
         "zambretti": {
             "average": "C, G"

@@ -25,7 +25,7 @@
         "api_cold": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -35,7 +35,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -47,7 +47,7 @@
         "api_dew": {
             "max": [
                 null,
-                null,
+                0.7,
                 null,
                 null,
                 null,
@@ -57,7 +57,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -69,7 +69,7 @@
         "api_foggy": {
             "max": [
                 null,
-                null,
+                0.2,
                 null,
                 null,
                 null,
@@ -79,7 +79,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -135,7 +135,7 @@
         "api_hot": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -145,7 +145,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -157,7 +157,7 @@
         "api_rainy": {
             "max": [
                 null,
-                null,
+                1.0,
                 null,
                 null,
                 null,
@@ -167,7 +167,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -179,7 +179,7 @@
         "api_snowy": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -189,7 +189,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -201,7 +201,7 @@
         "api_stormy": {
             "max": [
                 null,
-                null,
+                0.3,
                 null,
                 null,
                 null,
@@ -211,7 +211,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -223,7 +223,7 @@
         "api_thundery": {
             "max": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -233,7 +233,7 @@
             ],
             "min": [
                 null,
-                null,
+                0.0,
                 null,
                 null,
                 null,
@@ -2615,14 +2615,14 @@
         },
         "conditions": {
             "cold": false,
-            "dew": false,
-            "foggy": false,
+            "dew": true,
+            "foggy": true,
             "frost_grass": true,
             "frost_ground": true,
             "hot": false,
-            "rainy": false,
+            "rainy": true,
             "snowy": false,
-            "stormy": false,
+            "stormy": true,
             "thundery": false
         },
         "dewpoint": {
@@ -2952,7 +2952,7 @@
         },
         "ecowitt_wittboy_rain_year": {
             "average": {
-                "overall": 7.7459
+                "overall": 7.746
             },
             "max": {
                 "value": 11.85,
@@ -3186,7 +3186,7 @@
         },
         "lightning_last_det_time": {
             "average": {
-                "overall": 1748448305.7
+                "overall": 1748448432.3
             },
             "max": {
                 "value": 1751859774.0,
@@ -3225,7 +3225,7 @@
         },
         "luminosity": {
             "average": {
-                "overall": 12986.4
+                "overall": 12986.7
             },
             "max": {
                 "value": 160790.0,
@@ -3362,7 +3362,7 @@
         },
         "netatmo_Chitterne_rain_battery_vp": {
             "average": {
-                "overall": 5067.5026
+                "overall": 5067.4987
             },
             "max": {
                 "value": 5194.0,
@@ -3663,7 +3663,7 @@
             }
         },
         "windrun": {
-            "value": 17953.2
+            "value": 17953.4
         },
         "zambretti": {
             "average": "B"

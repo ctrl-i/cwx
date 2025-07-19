@@ -104,11 +104,12 @@
     "rainRate": 0.0,
     "rain_total": 0.0,
     "uptime": {
-        "now": 1752911743,
+        "now": 1752912140,
         "stations": {
-            "weewx": 2319942
+            "weectl database rebuild-daily --from=1973-01-01 --to=2023-01-01 --conf": 209,
+            "weewx": 2320340
         },
-        "system": 6727390
+        "system": 6727788
     },
     "wetbulb": 15.9,
     "windDir": 115.0,

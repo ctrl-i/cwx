@@ -1,33 +1,21 @@
 {
     "metadata": {
-        "generated_at": "2025-08-07T23:03:49.923150Z",
+        "generated_at": "2025-08-08T00:03:25.152526Z",
         "version": "1.1.1"
     },
     "forecasts": {
         "combined": {
             "daily": {
-                "1754352000": {
-                    "min": 12.3,
-                    "max": 12.3,
-                    "temp": 12.3,
+                "1754438400": {
+                    "min": 14.3,
+                    "max": 14.3,
+                    "temp": 14.3,
                     "humidity": 76,
-                    "windSpeed": 11.5,
+                    "windSpeed": 16.82,
                     "pop": 0,
-                    "qpf": 0.004,
+                    "qpf": null,
                     "qsf": null,
                     "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754438400": {
-                    "min": 10.2,
-                    "max": 21.6,
-                    "temp": 16.1,
-                    "humidity": 65,
-                    "windSpeed": 17.3,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "fog",
                     "wind": "breezy"
                 },
                 "1754524800": {
@@ -118,7 +106,7 @@
                     "min": 14.6,
                     "max": 27.9,
                     "temp": 21.1,
-                    "humidity": 62,
+                    "humidity": 63,
                     "windSpeed": 15.0,
                     "pop": 17,
                     "qpf": 0.02,
@@ -189,281 +177,29 @@
                 "1755648000": {
                     "min": 14.6,
                     "max": 27.5,
-                    "temp": 20.9,
-                    "humidity": 63,
+                    "temp": 20.7,
+                    "humidity": 64,
                     "windSpeed": 18.0,
                     "pop": 10,
                     "qpf": 0.008,
                     "qsf": null,
                     "icon": "overcast",
                     "wind": "breezy"
+                },
+                "1755734400": {
+                    "min": 15.1,
+                    "max": 32.5,
+                    "temp": 23.9,
+                    "humidity": 46,
+                    "windSpeed": 31.5,
+                    "pop": 13,
+                    "qpf": 0.012,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "very windy"
                 }
             },
             "hourly": {
-                "1754434800": {
-                    "temp": 12.3,
-                    "humidity": 76,
-                    "windSpeed": 5.19,
-                    "windGust": 11.5,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754438400": {
-                    "temp": 11.4,
-                    "humidity": 80,
-                    "windSpeed": 4.6,
-                    "windGust": 11.5,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754442000": {
-                    "temp": 11.1,
-                    "humidity": 83,
-                    "windSpeed": 4.6,
-                    "windGust": 10.4,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754445600": {
-                    "temp": 10.8,
-                    "humidity": 83,
-                    "windSpeed": 3.6,
-                    "windGust": 5.8,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754449200": {
-                    "temp": 10.2,
-                    "humidity": 84,
-                    "windSpeed": 3.5,
-                    "windGust": 6.9,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754452800": {
-                    "temp": 10.5,
-                    "humidity": 85,
-                    "windSpeed": 2.4606296000000003,
-                    "windGust": 6.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "fog",
-                    "wind": "light wind"
-                },
-                "1754456400": {
-                    "temp": 10.5,
-                    "humidity": 86,
-                    "windSpeed": 2.9080168,
-                    "windGust": 5.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "fog",
-                    "wind": "light wind"
-                },
-                "1754460000": {
-                    "temp": 11.3,
-                    "humidity": 86,
-                    "windSpeed": 4.6975656,
-                    "windGust": 6.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "fog",
-                    "wind": "gentle wind"
-                },
-                "1754463600": {
-                    "temp": 13.7,
-                    "humidity": 80,
-                    "windSpeed": 3.5790976000000003,
-                    "windGust": 8.1,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754467200": {
-                    "temp": 15.1,
-                    "humidity": 68,
-                    "windSpeed": 4.6,
-                    "windGust": 10.4,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754470800": {
-                    "temp": 17.1,
-                    "humidity": 61,
-                    "windSpeed": 5.52,
-                    "windGust": 9.2,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754474400": {
-                    "temp": 18.9,
-                    "humidity": 54,
-                    "windSpeed": 6.54,
-                    "windGust": 12.7,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754478000": {
-                    "temp": 19.8,
-                    "humidity": 48,
-                    "windSpeed": 5.91,
-                    "windGust": 13.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754481600": {
-                    "temp": 20.8,
-                    "humidity": 46,
-                    "windSpeed": 7.02,
-                    "windGust": 14.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754485200": {
-                    "temp": 21.3,
-                    "humidity": 42,
-                    "windSpeed": 8.1,
-                    "windGust": 15.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754488800": {
-                    "temp": 21.5,
-                    "humidity": 42,
-                    "windSpeed": 10.45,
-                    "windGust": 15.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754492400": {
-                    "temp": 21.6,
-                    "humidity": 43,
-                    "windSpeed": 13.49,
-                    "windGust": 16.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754496000": {
-                    "temp": 20.8,
-                    "humidity": 45,
-                    "windSpeed": 12.86,
-                    "windGust": 17.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754499600": {
-                    "temp": 19.8,
-                    "humidity": 49,
-                    "windSpeed": 10.69,
-                    "windGust": 17.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754503200": {
-                    "temp": 19.1,
-                    "humidity": 52,
-                    "windSpeed": 10.289905599999999,
-                    "windGust": 17.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754506800": {
-                    "temp": 17.7,
-                    "humidity": 57,
-                    "windSpeed": 10.5135992,
-                    "windGust": 16.1,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754510400": {
-                    "temp": 16.8,
-                    "humidity": 61,
-                    "windSpeed": 7.829276,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754514000": {
-                    "temp": 16.1,
-                    "humidity": 66,
-                    "windSpeed": 8.06,
-                    "windGust": 16.09,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754517600": {
-                    "temp": 15.2,
-                    "humidity": 70,
-                    "windSpeed": 7.6055824,
-                    "windGust": 14.97,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
                 "1754521200": {
                     "temp": 14.3,
                     "humidity": 76,
@@ -740,8 +476,8 @@
                     "wind": "breezy"
                 },
                 "1754611200": {
-                    "temp": 14.7,
-                    "humidity": 90,
+                    "temp": 14.6,
+                    "humidity": 91,
                     "windSpeed": 9.6188248,
                     "windGust": 19.69,
                     "pop": 5,
@@ -751,8 +487,8 @@
                     "wind": "breezy"
                 },
                 "1754614800": {
-                    "temp": 14.4,
-                    "humidity": 91,
+                    "temp": 14.3,
+                    "humidity": 92,
                     "windSpeed": 8.947744,
                     "windGust": 19.01,
                     "pop": 0,
@@ -763,7 +499,7 @@
                 },
                 "1754618400": {
                     "temp": 14.0,
-                    "humidity": 92,
+                    "humidity": 93,
                     "windSpeed": 8.5003568,
                     "windGust": 19.05,
                     "pop": 0,
@@ -773,7 +509,7 @@
                     "wind": "breezy"
                 },
                 "1754622000": {
-                    "temp": 13.6,
+                    "temp": 13.7,
                     "humidity": 93,
                     "windSpeed": 8.0529696,
                     "windGust": 19.46,
@@ -784,7 +520,7 @@
                     "wind": "breezy"
                 },
                 "1754625600": {
-                    "temp": 13.3,
+                    "temp": 13.4,
                     "humidity": 94,
                     "windSpeed": 8.0529696,
                     "windGust": 18.81,
@@ -1246,10 +982,10 @@
                     "wind": "breezy"
                 },
                 "1754776800": {
-                    "temp": 14.7,
-                    "humidity": 84,
+                    "temp": 14.4,
+                    "humidity": 86,
                     "windSpeed": 8.947744,
-                    "windGust": 17.07,
+                    "windGust": 17.72,
                     "pop": 0,
                     "qpf": null,
                     "qsf": null,
@@ -2577,9 +2313,9 @@
                     "wind": "gentle wind"
                 },
                 "1755212400": {
-                    "temp": 19.7,
-                    "humidity": 72,
-                    "windSpeed": 5.0,
+                    "temp": 18.4,
+                    "humidity": 77,
+                    "windSpeed": 5.32,
                     "windGust": 12.0,
                     "pop": 8,
                     "qpf": null,
@@ -4159,31 +3895,284 @@
                     "qsf": null,
                     "icon": "overcast",
                     "wind": "gentle wind"
+                },
+                "1755730800": {
+                    "temp": 17.6,
+                    "humidity": 75,
+                    "windSpeed": 5.0,
+                    "windGust": 9.0,
+                    "pop": 6,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "gentle wind"
+                },
+                "1755734400": {
+                    "temp": 16.9,
+                    "humidity": 77,
+                    "windSpeed": 5.0,
+                    "windGust": 9.0,
+                    "pop": 6,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "gentle wind"
+                },
+                "1755738000": {
+                    "temp": 16.7,
+                    "humidity": 79,
+                    "windSpeed": 5.0,
+                    "windGust": 8.0,
+                    "pop": 6,
+                    "qpf": 0.008,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755741600": {
+                    "temp": 16.0,
+                    "humidity": 80,
+                    "windSpeed": 5.0,
+                    "windGust": 7.0,
+                    "pop": 6,
+                    "qpf": 0.008,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755745200": {
+                    "temp": 15.6,
+                    "humidity": 82,
+                    "windSpeed": 4.7,
+                    "windGust": 7.0,
+                    "pop": 6,
+                    "qpf": 0.008,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755748800": {
+                    "temp": 15.2,
+                    "humidity": 82,
+                    "windSpeed": 4.9,
+                    "windGust": 9.0,
+                    "pop": 6,
+                    "qpf": 0.012,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755752400": {
+                    "temp": 15.1,
+                    "humidity": 81,
+                    "windSpeed": 4.7,
+                    "windGust": 10.0,
+                    "pop": 6,
+                    "qpf": 0.012,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755756000": {
+                    "temp": 17.1,
+                    "humidity": 68,
+                    "windSpeed": 5.1,
+                    "windGust": 10.3,
+                    "pop": 6,
+                    "qpf": 0.012,
+                    "qsf": null,
+                    "icon": "clear skies",
+                    "wind": "gentle wind"
+                },
+                "1755759600": {
+                    "temp": 19.5,
+                    "humidity": 58,
+                    "windSpeed": 6.6,
+                    "windGust": 12.1,
+                    "pop": 7,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "gentle wind"
+                },
+                "1755763200": {
+                    "temp": 22.8,
+                    "humidity": 45,
+                    "windSpeed": 8.6,
+                    "windGust": 13.9,
+                    "pop": 7,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
+                },
+                "1755766800": {
+                    "temp": 25.7,
+                    "humidity": 34,
+                    "windSpeed": 10.2,
+                    "windGust": 15.2,
+                    "pop": 8,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
+                },
+                "1755770400": {
+                    "temp": 27.8,
+                    "humidity": 28,
+                    "windSpeed": 11.3,
+                    "windGust": 15.4,
+                    "pop": 9,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
+                },
+                "1755774000": {
+                    "temp": 29.5,
+                    "humidity": 25,
+                    "windSpeed": 11.8,
+                    "windGust": 15.2,
+                    "pop": 9,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
+                },
+                "1755777600": {
+                    "temp": 30.8,
+                    "humidity": 23,
+                    "windSpeed": 12.2,
+                    "windGust": 15.0,
+                    "pop": 10,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755781200": {
+                    "temp": 31.8,
+                    "humidity": 21,
+                    "windSpeed": 12.6,
+                    "windGust": 15.0,
+                    "pop": 11,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755784800": {
+                    "temp": 32.4,
+                    "humidity": 20,
+                    "windSpeed": 13.0,
+                    "windGust": 15.2,
+                    "pop": 11,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755788400": {
+                    "temp": 32.5,
+                    "humidity": 20,
+                    "windSpeed": 13.2,
+                    "windGust": 15.7,
+                    "pop": 12,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755792000": {
+                    "temp": 31.9,
+                    "humidity": 20,
+                    "windSpeed": 12.9,
+                    "windGust": 16.6,
+                    "pop": 12,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755795600": {
+                    "temp": 30.6,
+                    "humidity": 21,
+                    "windSpeed": 12.3,
+                    "windGust": 17.9,
+                    "pop": 13,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755799200": {
+                    "temp": 28.9,
+                    "humidity": 24,
+                    "windSpeed": 11.5,
+                    "windGust": 19.7,
+                    "pop": 13,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755802800": {
+                    "temp": 26.6,
+                    "humidity": 31,
+                    "windSpeed": 11.1,
+                    "windGust": 22.8,
+                    "pop": 13,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755806400": {
+                    "temp": 23.8,
+                    "humidity": 40,
+                    "windSpeed": 11.5,
+                    "windGust": 26.4,
+                    "pop": 12,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755810000": {
+                    "temp": 21.6,
+                    "humidity": 48,
+                    "windSpeed": 12.3,
+                    "windGust": 29.5,
+                    "pop": 12,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755813600": {
+                    "temp": 20.6,
+                    "humidity": 54,
+                    "windSpeed": 12.5,
+                    "windGust": 31.5,
+                    "pop": 11,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
                 }
             }
         },
         "accuwx": {
             "daily": {
-                "1754352000": {
-                    "min": null,
-                    "max": null,
-                    "humidity": 71,
-                    "windSpeed": 11.5,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
                 "1754438400": {
                     "min": null,
                     "max": null,
-                    "humidity": 66,
-                    "windSpeed": 17.3,
+                    "humidity": 77,
+                    "windSpeed": 13.8,
                     "pop": 0,
                     "qpf": null,
                     "qsf": null,
-                    "icon": "overcast",
+                    "icon": "few clouds",
                     "wind": "breezy"
                 },
                 "1754524800": {
@@ -4200,7 +4189,7 @@
                 "1754611200": {
                     "min": null,
                     "max": null,
-                    "humidity": 82,
+                    "humidity": 81,
                     "windSpeed": 17.3,
                     "pop": 5,
                     "qpf": null,
@@ -4243,273 +4232,12 @@
                 },
                 "1755648000": {
                     "icon": null
+                },
+                "1755734400": {
+                    "icon": null
                 }
             },
             "hourly": {
-                "1754434800": {
-                    "temp": null,
-                    "humidity": 71,
-                    "windSpeed": 4.6,
-                    "windGust": 11.5,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754438400": {
-                    "temp": null,
-                    "humidity": 76,
-                    "windSpeed": 4.6,
-                    "windGust": 11.5,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754442000": {
-                    "temp": null,
-                    "humidity": 84,
-                    "windSpeed": 4.6,
-                    "windGust": 10.4,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754445600": {
-                    "temp": null,
-                    "humidity": 82,
-                    "windSpeed": 3.5,
-                    "windGust": 5.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754449200": {
-                    "temp": null,
-                    "humidity": 86,
-                    "windSpeed": 3.5,
-                    "windGust": 6.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754452800": {
-                    "temp": null,
-                    "humidity": 89,
-                    "windSpeed": 2.3,
-                    "windGust": 6.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "light wind"
-                },
-                "1754456400": {
-                    "temp": null,
-                    "humidity": 95,
-                    "windSpeed": 1.2,
-                    "windGust": 3.5,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "light wind"
-                },
-                "1754460000": {
-                    "temp": null,
-                    "humidity": 100,
-                    "windSpeed": 2.3,
-                    "windGust": 6.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "light wind"
-                },
-                "1754463600": {
-                    "temp": null,
-                    "humidity": 100,
-                    "windSpeed": 3.5,
-                    "windGust": 8.1,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754467200": {
-                    "temp": null,
-                    "humidity": 62,
-                    "windSpeed": 4.6,
-                    "windGust": 10.4,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754470800": {
-                    "temp": null,
-                    "humidity": 74,
-                    "windSpeed": 4.6,
-                    "windGust": 9.2,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754474400": {
-                    "temp": null,
-                    "humidity": 62,
-                    "windSpeed": 5.8,
-                    "windGust": 12.7,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754478000": {
-                    "temp": null,
-                    "humidity": 48,
-                    "windSpeed": 5.8,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754481600": {
-                    "temp": null,
-                    "humidity": 47,
-                    "windSpeed": 6.9,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754485200": {
-                    "temp": null,
-                    "humidity": 37,
-                    "windSpeed": 8.1,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "breezy"
-                },
-                "1754488800": {
-                    "temp": null,
-                    "humidity": 37,
-                    "windSpeed": 9.2,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754492400": {
-                    "temp": null,
-                    "humidity": 42,
-                    "windSpeed": 9.2,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "breezy"
-                },
-                "1754496000": {
-                    "temp": null,
-                    "humidity": 40,
-                    "windSpeed": 9.2,
-                    "windGust": 15.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754499600": {
-                    "temp": null,
-                    "humidity": 51,
-                    "windSpeed": 9.2,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754503200": {
-                    "temp": null,
-                    "humidity": 46,
-                    "windSpeed": 8.1,
-                    "windGust": 17.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754506800": {
-                    "temp": null,
-                    "humidity": 54,
-                    "windSpeed": 6.9,
-                    "windGust": 16.1,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754510400": {
-                    "temp": null,
-                    "humidity": 60,
-                    "windSpeed": 6.9,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754514000": {
-                    "temp": null,
-                    "humidity": 67,
-                    "windSpeed": 6.9,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754517600": {
-                    "temp": null,
-                    "humidity": 72,
-                    "windSpeed": 6.9,
-                    "windGust": 13.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
                 "1754521200": {
                     "temp": null,
                     "humidity": 77,
@@ -4787,9 +4515,9 @@
                 },
                 "1754611200": {
                     "temp": null,
-                    "humidity": 85,
+                    "humidity": 93,
                     "windSpeed": 6.9,
-                    "windGust": 16.1,
+                    "windGust": 13.8,
                     "pop": 5,
                     "qpf": null,
                     "qsf": null,
@@ -4798,7 +4526,7 @@
                 },
                 "1754614800": {
                     "temp": null,
-                    "humidity": 87,
+                    "humidity": 95,
                     "windSpeed": 5.8,
                     "windGust": 15.0,
                     "pop": 0,
@@ -4809,7 +4537,7 @@
                 },
                 "1754618400": {
                     "temp": null,
-                    "humidity": 90,
+                    "humidity": 95,
                     "windSpeed": 5.8,
                     "windGust": 15.0,
                     "pop": 0,
@@ -4907,7 +4635,15 @@
                     "wind": "gentle wind"
                 },
                 "1754650800": {
-                    "icon": null
+                    "temp": null,
+                    "humidity": 53,
+                    "windSpeed": 8.1,
+                    "windGust": 17.3,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
                 },
                 "1754654400": {
                     "icon": null
@@ -5805,29 +5541,89 @@
                 },
                 "1755727200": {
                     "icon": null
+                },
+                "1755730800": {
+                    "icon": null
+                },
+                "1755734400": {
+                    "icon": null
+                },
+                "1755738000": {
+                    "icon": null
+                },
+                "1755741600": {
+                    "icon": null
+                },
+                "1755745200": {
+                    "icon": null
+                },
+                "1755748800": {
+                    "icon": null
+                },
+                "1755752400": {
+                    "icon": null
+                },
+                "1755756000": {
+                    "icon": null
+                },
+                "1755759600": {
+                    "icon": null
+                },
+                "1755763200": {
+                    "icon": null
+                },
+                "1755766800": {
+                    "icon": null
+                },
+                "1755770400": {
+                    "icon": null
+                },
+                "1755774000": {
+                    "icon": null
+                },
+                "1755777600": {
+                    "icon": null
+                },
+                "1755781200": {
+                    "icon": null
+                },
+                "1755784800": {
+                    "icon": null
+                },
+                "1755788400": {
+                    "icon": null
+                },
+                "1755792000": {
+                    "icon": null
+                },
+                "1755795600": {
+                    "icon": null
+                },
+                "1755799200": {
+                    "icon": null
+                },
+                "1755802800": {
+                    "icon": null
+                },
+                "1755806400": {
+                    "icon": null
+                },
+                "1755810000": {
+                    "icon": null
+                },
+                "1755813600": {
+                    "icon": null
                 }
             }
         },
         "bbc": {
             "daily": {
-                "1754352000": {
-                    "min": 13.9,
-                    "max": 13.9,
-                    "temp": 13.9,
-                    "humidity": 74,
-                    "windSpeed": 8.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "breezy"
-                },
                 "1754438400": {
-                    "min": 10.6,
-                    "max": 21.7,
-                    "temp": 16.0,
-                    "humidity": 65,
-                    "windSpeed": 17.0,
+                    "min": 15.0,
+                    "max": 15.0,
+                    "temp": 15.0,
+                    "humidity": 74,
+                    "windSpeed": 13.0,
                     "pop": 0,
                     "qpf": null,
                     "qsf": null,
@@ -5993,9 +5789,21 @@
                 "1755648000": {
                     "min": 14.4,
                     "max": 23.3,
-                    "temp": 19.0,
+                    "temp": 18.9,
                     "humidity": 67,
                     "windSpeed": 18.0,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "breezy"
+                },
+                "1755734400": {
+                    "min": 13.9,
+                    "max": 16.1,
+                    "temp": 14.9,
+                    "humidity": 83,
+                    "windSpeed": 10.0,
                     "pop": 0,
                     "qpf": null,
                     "qsf": null,
@@ -6004,270 +5812,6 @@
                 }
             },
             "hourly": {
-                "1754434800": {
-                    "temp": 13.9,
-                    "humidity": 74,
-                    "windSpeed": 5.0,
-                    "windGust": 8.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754438400": {
-                    "temp": 12.8,
-                    "humidity": 79,
-                    "windSpeed": 4.0,
-                    "windGust": 7.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754442000": {
-                    "temp": 12.2,
-                    "humidity": 84,
-                    "windSpeed": 3.0,
-                    "windGust": 6.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754445600": {
-                    "temp": 11.1,
-                    "humidity": 87,
-                    "windSpeed": 3.0,
-                    "windGust": 4.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754449200": {
-                    "temp": 10.6,
-                    "humidity": 88,
-                    "windSpeed": 3.0,
-                    "windGust": 4.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754452800": {
-                    "temp": 10.6,
-                    "humidity": 89,
-                    "windSpeed": 2.0,
-                    "windGust": 5.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "light wind"
-                },
-                "1754456400": {
-                    "temp": 10.6,
-                    "humidity": 88,
-                    "windSpeed": 2.0,
-                    "windGust": 5.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "light wind"
-                },
-                "1754460000": {
-                    "temp": 10.6,
-                    "humidity": 89,
-                    "windSpeed": 2.0,
-                    "windGust": 5.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "light wind"
-                },
-                "1754463600": {
-                    "temp": 11.7,
-                    "humidity": 86,
-                    "windSpeed": 2.0,
-                    "windGust": 6.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "light wind"
-                },
-                "1754467200": {
-                    "temp": 13.3,
-                    "humidity": 77,
-                    "windSpeed": 3.0,
-                    "windGust": 8.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754470800": {
-                    "temp": 15.6,
-                    "humidity": 65,
-                    "windSpeed": 3.0,
-                    "windGust": 9.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754474400": {
-                    "temp": 17.8,
-                    "humidity": 55,
-                    "windSpeed": 4.0,
-                    "windGust": 11.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754478000": {
-                    "temp": 18.9,
-                    "humidity": 50,
-                    "windSpeed": 5.0,
-                    "windGust": 12.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754481600": {
-                    "temp": 20.0,
-                    "humidity": 47,
-                    "windSpeed": 6.0,
-                    "windGust": 14.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754485200": {
-                    "temp": 20.6,
-                    "humidity": 44,
-                    "windSpeed": 6.0,
-                    "windGust": 15.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754488800": {
-                    "temp": 20.6,
-                    "humidity": 42,
-                    "windSpeed": 8.0,
-                    "windGust": 15.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754492400": {
-                    "temp": 21.1,
-                    "humidity": 42,
-                    "windSpeed": 9.0,
-                    "windGust": 16.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754496000": {
-                    "temp": 21.7,
-                    "humidity": 42,
-                    "windSpeed": 9.0,
-                    "windGust": 17.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754499600": {
-                    "temp": 20.6,
-                    "humidity": 45,
-                    "windSpeed": 9.0,
-                    "windGust": 17.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754503200": {
-                    "temp": 19.4,
-                    "humidity": 49,
-                    "windSpeed": 9.0,
-                    "windGust": 16.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754506800": {
-                    "temp": 18.9,
-                    "humidity": 52,
-                    "windSpeed": 9.0,
-                    "windGust": 15.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754510400": {
-                    "temp": 18.3,
-                    "humidity": 57,
-                    "windSpeed": 7.0,
-                    "windGust": 12.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "breezy"
-                },
-                "1754514000": {
-                    "temp": 16.7,
-                    "humidity": 62,
-                    "windSpeed": 6.0,
-                    "windGust": 13.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
-                "1754517600": {
-                    "temp": 15.6,
-                    "humidity": 68,
-                    "windSpeed": 6.0,
-                    "windGust": 13.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "scattered clouds",
-                    "wind": "gentle wind"
-                },
                 "1754521200": {
                     "temp": 15.0,
                     "humidity": 74,
@@ -9963,29 +9507,145 @@
                     "qsf": null,
                     "icon": "clear skies",
                     "wind": "gentle wind"
+                },
+                "1755730800": {
+                    "temp": 17.2,
+                    "humidity": 73,
+                    "windSpeed": 5.0,
+                    "windGust": 9.0,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "clear skies",
+                    "wind": "gentle wind"
+                },
+                "1755734400": {
+                    "temp": 16.1,
+                    "humidity": 76,
+                    "windSpeed": 5.0,
+                    "windGust": 9.0,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755738000": {
+                    "temp": 16.1,
+                    "humidity": 79,
+                    "windSpeed": 5.0,
+                    "windGust": 8.0,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755741600": {
+                    "temp": 15.0,
+                    "humidity": 82,
+                    "windSpeed": 5.0,
+                    "windGust": 7.0,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755745200": {
+                    "temp": 14.4,
+                    "humidity": 86,
+                    "windSpeed": 4.0,
+                    "windGust": 7.0,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755748800": {
+                    "temp": 13.9,
+                    "humidity": 88,
+                    "windSpeed": 4.0,
+                    "windGust": 9.0,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755752400": {
+                    "temp": 13.9,
+                    "humidity": 89,
+                    "windSpeed": 4.0,
+                    "windGust": 10.0,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "scattered clouds",
+                    "wind": "gentle wind"
+                },
+                "1755756000": {
+                    "icon": null
+                },
+                "1755759600": {
+                    "icon": null
+                },
+                "1755763200": {
+                    "icon": null
+                },
+                "1755766800": {
+                    "icon": null
+                },
+                "1755770400": {
+                    "icon": null
+                },
+                "1755774000": {
+                    "icon": null
+                },
+                "1755777600": {
+                    "icon": null
+                },
+                "1755781200": {
+                    "icon": null
+                },
+                "1755784800": {
+                    "icon": null
+                },
+                "1755788400": {
+                    "icon": null
+                },
+                "1755792000": {
+                    "icon": null
+                },
+                "1755795600": {
+                    "icon": null
+                },
+                "1755799200": {
+                    "icon": null
+                },
+                "1755802800": {
+                    "icon": null
+                },
+                "1755806400": {
+                    "icon": null
+                },
+                "1755810000": {
+                    "icon": null
+                },
+                "1755813600": {
+                    "icon": null
                 }
             }
         },
         "metno": {
             "daily": {
-                "1754352000": {
-                    "min": 12.6,
-                    "max": 12.6,
-                    "temp": 12.6,
-                    "humidity": 73,
-                    "windSpeed": 5.1449527999999995,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
                 "1754438400": {
-                    "min": 10.9,
-                    "max": 21.0,
-                    "temp": 16.1,
-                    "humidity": 62,
-                    "windSpeed": 10.5135992,
+                    "min": 14.0,
+                    "max": 14.0,
+                    "temp": 14.0,
+                    "humidity": 77,
+                    "windSpeed": 7.3818888,
                     "pop": null,
                     "qpf": null,
                     "qsf": null,
@@ -10132,273 +9792,12 @@
                 },
                 "1755648000": {
                     "icon": null
+                },
+                "1755734400": {
+                    "icon": null
                 }
             },
             "hourly": {
-                "1754434800": {
-                    "temp": 12.6,
-                    "humidity": 73,
-                    "windSpeed": 5.1449527999999995,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754438400": {
-                    "temp": 11.5,
-                    "humidity": 80,
-                    "windSpeed": 4.2501784,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754442000": {
-                    "temp": 11.1,
-                    "humidity": 82,
-                    "windSpeed": 3.8027912,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754445600": {
-                    "temp": 10.9,
-                    "humidity": 83,
-                    "windSpeed": 3.355404,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754449200": {
-                    "temp": 10.9,
-                    "humidity": 82,
-                    "windSpeed": 2.6843232,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "light wind"
-                },
-                "1754452800": {
-                    "temp": 11.0,
-                    "humidity": 82,
-                    "windSpeed": 2.4606296000000003,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754456400": {
-                    "temp": 10.9,
-                    "humidity": 82,
-                    "windSpeed": 2.9080168,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754460000": {
-                    "temp": 12.4,
-                    "humidity": 77,
-                    "windSpeed": 4.6975656,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754463600": {
-                    "temp": 14.7,
-                    "humidity": 69,
-                    "windSpeed": 3.5790976000000003,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754467200": {
-                    "temp": 16.2,
-                    "humidity": 59,
-                    "windSpeed": 2.6843232,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "light wind"
-                },
-                "1754470800": {
-                    "temp": 17.6,
-                    "humidity": 51,
-                    "windSpeed": 4.473872,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754474400": {
-                    "temp": 18.5,
-                    "humidity": 49,
-                    "windSpeed": 4.6975656,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754478000": {
-                    "temp": 19.6,
-                    "humidity": 46,
-                    "windSpeed": 5.8160336,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754481600": {
-                    "temp": 20.1,
-                    "humidity": 45,
-                    "windSpeed": 6.9345016,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754485200": {
-                    "temp": 20.8,
-                    "humidity": 42,
-                    "windSpeed": 7.3818888,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754488800": {
-                    "temp": 21.0,
-                    "humidity": 44,
-                    "windSpeed": 5.59234,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754492400": {
-                    "temp": 21.0,
-                    "humidity": 43,
-                    "windSpeed": 7.158195200000001,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754496000": {
-                    "temp": 20.7,
-                    "humidity": 44,
-                    "windSpeed": 7.829276,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754499600": {
-                    "temp": 20.0,
-                    "humidity": 47,
-                    "windSpeed": 9.171437599999999,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754503200": {
-                    "temp": 18.5,
-                    "humidity": 54,
-                    "windSpeed": 10.289905599999999,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754506800": {
-                    "temp": 17.4,
-                    "humidity": 59,
-                    "windSpeed": 10.5135992,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754510400": {
-                    "temp": 17.1,
-                    "humidity": 57,
-                    "windSpeed": 7.829276,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754514000": {
-                    "temp": 16.1,
-                    "humidity": 63,
-                    "windSpeed": 8.0529696,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754517600": {
-                    "temp": 15.6,
-                    "humidity": 68,
-                    "windSpeed": 7.6055824,
-                    "windGust": null,
-                    "pop": null,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
                 "1754521200": {
                     "temp": 14.0,
                     "humidity": 77,
@@ -12302,34 +11701,94 @@
                 },
                 "1755727200": {
                     "icon": null
+                },
+                "1755730800": {
+                    "icon": null
+                },
+                "1755734400": {
+                    "icon": null
+                },
+                "1755738000": {
+                    "icon": null
+                },
+                "1755741600": {
+                    "icon": null
+                },
+                "1755745200": {
+                    "icon": null
+                },
+                "1755748800": {
+                    "icon": null
+                },
+                "1755752400": {
+                    "icon": null
+                },
+                "1755756000": {
+                    "icon": null
+                },
+                "1755759600": {
+                    "icon": null
+                },
+                "1755763200": {
+                    "icon": null
+                },
+                "1755766800": {
+                    "icon": null
+                },
+                "1755770400": {
+                    "icon": null
+                },
+                "1755774000": {
+                    "icon": null
+                },
+                "1755777600": {
+                    "icon": null
+                },
+                "1755781200": {
+                    "icon": null
+                },
+                "1755784800": {
+                    "icon": null
+                },
+                "1755788400": {
+                    "icon": null
+                },
+                "1755792000": {
+                    "icon": null
+                },
+                "1755795600": {
+                    "icon": null
+                },
+                "1755799200": {
+                    "icon": null
+                },
+                "1755802800": {
+                    "icon": null
+                },
+                "1755806400": {
+                    "icon": null
+                },
+                "1755810000": {
+                    "icon": null
+                },
+                "1755813600": {
+                    "icon": null
                 }
             }
         },
         "openmeteo": {
             "daily": {
-                "1754352000": {
-                    "min": 12.4,
-                    "max": 12.4,
-                    "temp": 12.4,
-                    "humidity": 79,
-                    "windSpeed": 4.0,
+                "1754438400": {
+                    "min": 13.8,
+                    "max": 13.8,
+                    "temp": 13.8,
+                    "humidity": 75,
+                    "windSpeed": 6.3,
                     "pop": 0,
-                    "qpf": 0.004,
+                    "qpf": null,
                     "qsf": null,
                     "icon": "few clouds",
                     "wind": "gentle wind"
-                },
-                "1754438400": {
-                    "min": 9.4,
-                    "max": 20.4,
-                    "temp": 15.2,
-                    "humidity": 69,
-                    "windSpeed": 13.4,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "fog",
-                    "wind": "breezy"
                 },
                 "1754524800": {
                     "min": 12.9,
@@ -12490,281 +11949,29 @@
                 "1755648000": {
                     "min": 14.8,
                     "max": 31.6,
-                    "temp": 22.7,
-                    "humidity": 59,
+                    "temp": 22.5,
+                    "humidity": 60,
                     "windSpeed": 7.2,
                     "pop": 10,
                     "qpf": 0.008,
                     "qsf": null,
                     "icon": "overcast",
                     "wind": "breezy"
+                },
+                "1755734400": {
+                    "min": 16.4,
+                    "max": 32.5,
+                    "temp": 24.2,
+                    "humidity": 45,
+                    "windSpeed": 31.5,
+                    "pop": 13,
+                    "qpf": 0.012,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "very windy"
                 }
             },
             "hourly": {
-                "1754434800": {
-                    "temp": 12.4,
-                    "humidity": 79,
-                    "windSpeed": 2.3,
-                    "windGust": 4.0,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "light wind"
-                },
-                "1754438400": {
-                    "temp": 11.4,
-                    "humidity": 84,
-                    "windSpeed": 2.8,
-                    "windGust": 3.8,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "light wind"
-                },
-                "1754442000": {
-                    "temp": 11.1,
-                    "humidity": 83,
-                    "windSpeed": 1.6,
-                    "windGust": 4.0,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754445600": {
-                    "temp": 10.8,
-                    "humidity": 83,
-                    "windSpeed": 1.6,
-                    "windGust": 2.5,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754449200": {
-                    "temp": 9.9,
-                    "humidity": 87,
-                    "windSpeed": 1.9,
-                    "windGust": 2.7,
-                    "pop": 0,
-                    "qpf": 0.004,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754452800": {
-                    "temp": 9.4,
-                    "humidity": 90,
-                    "windSpeed": 1.6,
-                    "windGust": 2.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "fog",
-                    "wind": "light wind"
-                },
-                "1754456400": {
-                    "temp": 9.4,
-                    "humidity": 89,
-                    "windSpeed": 1.3,
-                    "windGust": 2.2,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "fog",
-                    "wind": "light wind"
-                },
-                "1754460000": {
-                    "temp": 9.6,
-                    "humidity": 89,
-                    "windSpeed": 0.8,
-                    "windGust": 1.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "fog",
-                    "wind": "light wind"
-                },
-                "1754463600": {
-                    "temp": 12.0,
-                    "humidity": 87,
-                    "windSpeed": 0.8,
-                    "windGust": 1.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "light wind"
-                },
-                "1754467200": {
-                    "temp": 15.1,
-                    "humidity": 70,
-                    "windSpeed": 1.9,
-                    "windGust": 3.6,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "light wind"
-                },
-                "1754470800": {
-                    "temp": 16.5,
-                    "humidity": 64,
-                    "windSpeed": 3.3,
-                    "windGust": 5.1,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754474400": {
-                    "temp": 17.8,
-                    "humidity": 58,
-                    "windSpeed": 4.4,
-                    "windGust": 8.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754478000": {
-                    "temp": 18.9,
-                    "humidity": 54,
-                    "windSpeed": 5.8,
-                    "windGust": 8.7,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754481600": {
-                    "temp": 19.9,
-                    "humidity": 50,
-                    "windSpeed": 5.2,
-                    "windGust": 7.6,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754485200": {
-                    "temp": 20.2,
-                    "humidity": 50,
-                    "windSpeed": 5.5,
-                    "windGust": 8.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754488800": {
-                    "temp": 20.4,
-                    "humidity": 49,
-                    "windSpeed": 6.0,
-                    "windGust": 9.4,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754492400": {
-                    "temp": 20.2,
-                    "humidity": 50,
-                    "windSpeed": 7.4,
-                    "windGust": 11.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754496000": {
-                    "temp": 19.6,
-                    "humidity": 52,
-                    "windSpeed": 8.5,
-                    "windGust": 12.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754499600": {
-                    "temp": 18.3,
-                    "humidity": 58,
-                    "windSpeed": 8.4,
-                    "windGust": 13.4,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754503200": {
-                    "temp": 17.7,
-                    "humidity": 57,
-                    "windSpeed": 7.6,
-                    "windGust": 13.4,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754506800": {
-                    "temp": 16.8,
-                    "humidity": 60,
-                    "windSpeed": 6.5,
-                    "windGust": 11.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754510400": {
-                    "temp": 15.7,
-                    "humidity": 68,
-                    "windSpeed": 5.4,
-                    "windGust": 10.1,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754514000": {
-                    "temp": 15.0,
-                    "humidity": 71,
-                    "windSpeed": 4.9,
-                    "windGust": 8.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754517600": {
-                    "temp": 14.4,
-                    "humidity": 72,
-                    "windSpeed": 4.1,
-                    "windGust": 7.4,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
                 "1754521200": {
                     "temp": 13.8,
                     "humidity": 75,
@@ -16460,28 +15667,280 @@
                     "qsf": null,
                     "icon": "overcast",
                     "wind": "gentle wind"
+                },
+                "1755730800": {
+                    "temp": 17.9,
+                    "humidity": 77,
+                    "windSpeed": 4.2,
+                    "windGust": 4.0,
+                    "pop": 6,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "gentle wind"
+                },
+                "1755734400": {
+                    "temp": 17.7,
+                    "humidity": 78,
+                    "windSpeed": 3.8,
+                    "windGust": 3.6,
+                    "pop": 6,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "gentle wind"
+                },
+                "1755738000": {
+                    "temp": 17.3,
+                    "humidity": 79,
+                    "windSpeed": 3.8,
+                    "windGust": 3.6,
+                    "pop": 6,
+                    "qpf": 0.008,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "gentle wind"
+                },
+                "1755741600": {
+                    "temp": 17.0,
+                    "humidity": 79,
+                    "windSpeed": 4.1,
+                    "windGust": 3.8,
+                    "pop": 6,
+                    "qpf": 0.008,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "gentle wind"
+                },
+                "1755745200": {
+                    "temp": 16.8,
+                    "humidity": 78,
+                    "windSpeed": 4.7,
+                    "windGust": 4.7,
+                    "pop": 6,
+                    "qpf": 0.008,
+                    "qsf": null,
+                    "icon": "clear skies",
+                    "wind": "gentle wind"
+                },
+                "1755748800": {
+                    "temp": 16.5,
+                    "humidity": 76,
+                    "windSpeed": 4.9,
+                    "windGust": 6.3,
+                    "pop": 6,
+                    "qpf": 0.012,
+                    "qsf": null,
+                    "icon": "clear skies",
+                    "wind": "gentle wind"
+                },
+                "1755752400": {
+                    "temp": 16.4,
+                    "humidity": 73,
+                    "windSpeed": 4.7,
+                    "windGust": 8.3,
+                    "pop": 6,
+                    "qpf": 0.012,
+                    "qsf": null,
+                    "icon": "clear skies",
+                    "wind": "gentle wind"
+                },
+                "1755756000": {
+                    "temp": 17.1,
+                    "humidity": 68,
+                    "windSpeed": 5.1,
+                    "windGust": 10.3,
+                    "pop": 6,
+                    "qpf": 0.012,
+                    "qsf": null,
+                    "icon": "clear skies",
+                    "wind": "gentle wind"
+                },
+                "1755759600": {
+                    "temp": 19.5,
+                    "humidity": 58,
+                    "windSpeed": 6.6,
+                    "windGust": 12.1,
+                    "pop": 7,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "gentle wind"
+                },
+                "1755763200": {
+                    "temp": 22.8,
+                    "humidity": 45,
+                    "windSpeed": 8.6,
+                    "windGust": 13.9,
+                    "pop": 7,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
+                },
+                "1755766800": {
+                    "temp": 25.7,
+                    "humidity": 34,
+                    "windSpeed": 10.2,
+                    "windGust": 15.2,
+                    "pop": 8,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
+                },
+                "1755770400": {
+                    "temp": 27.8,
+                    "humidity": 28,
+                    "windSpeed": 11.3,
+                    "windGust": 15.4,
+                    "pop": 9,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
+                },
+                "1755774000": {
+                    "temp": 29.5,
+                    "humidity": 25,
+                    "windSpeed": 11.8,
+                    "windGust": 15.2,
+                    "pop": 9,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "few clouds",
+                    "wind": "breezy"
+                },
+                "1755777600": {
+                    "temp": 30.8,
+                    "humidity": 23,
+                    "windSpeed": 12.2,
+                    "windGust": 15.0,
+                    "pop": 10,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755781200": {
+                    "temp": 31.8,
+                    "humidity": 21,
+                    "windSpeed": 12.6,
+                    "windGust": 15.0,
+                    "pop": 11,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755784800": {
+                    "temp": 32.4,
+                    "humidity": 20,
+                    "windSpeed": 13.0,
+                    "windGust": 15.2,
+                    "pop": 11,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755788400": {
+                    "temp": 32.5,
+                    "humidity": 20,
+                    "windSpeed": 13.2,
+                    "windGust": 15.7,
+                    "pop": 12,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755792000": {
+                    "temp": 31.9,
+                    "humidity": 20,
+                    "windSpeed": 12.9,
+                    "windGust": 16.6,
+                    "pop": 12,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755795600": {
+                    "temp": 30.6,
+                    "humidity": 21,
+                    "windSpeed": 12.3,
+                    "windGust": 17.9,
+                    "pop": 13,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755799200": {
+                    "temp": 28.9,
+                    "humidity": 24,
+                    "windSpeed": 11.5,
+                    "windGust": 19.7,
+                    "pop": 13,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755802800": {
+                    "temp": 26.6,
+                    "humidity": 31,
+                    "windSpeed": 11.1,
+                    "windGust": 22.8,
+                    "pop": 13,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755806400": {
+                    "temp": 23.8,
+                    "humidity": 40,
+                    "windSpeed": 11.5,
+                    "windGust": 26.4,
+                    "pop": 12,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755810000": {
+                    "temp": 21.6,
+                    "humidity": 48,
+                    "windSpeed": 12.3,
+                    "windGust": 29.5,
+                    "pop": 12,
+                    "qpf": 0.004,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
+                },
+                "1755813600": {
+                    "temp": 20.6,
+                    "humidity": 54,
+                    "windSpeed": 12.5,
+                    "windGust": 31.5,
+                    "pop": 11,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "overcast",
+                    "wind": "breezy"
                 }
             }
         },
         "openwxmap": {
             "daily": {
-                "1754352000": {
-                    "min": 11.2,
-                    "max": 11.2,
-                    "temp": 11.2,
-                    "humidity": 83,
-                    "windSpeed": 6.04,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
                 "1754438400": {
-                    "min": 9.2,
-                    "max": 22.8,
-                    "temp": 16.4,
-                    "humidity": 68,
+                    "min": 14.3,
+                    "max": 14.3,
+                    "temp": 14.3,
+                    "humidity": 79,
                     "windSpeed": 16.82,
                     "pop": 0,
                     "qpf": null,
@@ -16516,8 +15975,8 @@
                 "1754697600": {
                     "min": 10.7,
                     "max": 22.6,
-                    "temp": 16.7,
-                    "humidity": 65,
+                    "temp": 16.5,
+                    "humidity": 66,
                     "windSpeed": 20.42,
                     "pop": 0,
                     "qpf": null,
@@ -16557,273 +16016,12 @@
                 },
                 "1755648000": {
                     "icon": null
+                },
+                "1755734400": {
+                    "icon": null
                 }
             },
             "hourly": {
-                "1754434800": {
-                    "temp": 11.2,
-                    "humidity": 83,
-                    "windSpeed": 5.19,
-                    "windGust": 6.04,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754438400": {
-                    "temp": 10.3,
-                    "humidity": 84,
-                    "windSpeed": 3.94,
-                    "windGust": 3.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754442000": {
-                    "temp": 10.4,
-                    "humidity": 87,
-                    "windSpeed": 3.89,
-                    "windGust": 3.78,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754445600": {
-                    "temp": 9.9,
-                    "humidity": 88,
-                    "windSpeed": 3.13,
-                    "windGust": 2.98,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754449200": {
-                    "temp": 9.6,
-                    "humidity": 88,
-                    "windSpeed": 1.16,
-                    "windGust": 1.1,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "light wind"
-                },
-                "1754452800": {
-                    "temp": 9.5,
-                    "humidity": 89,
-                    "windSpeed": 2.01,
-                    "windGust": 2.24,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "light wind"
-                },
-                "1754456400": {
-                    "temp": 9.2,
-                    "humidity": 89,
-                    "windSpeed": 1.9,
-                    "windGust": 1.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "light wind"
-                },
-                "1754460000": {
-                    "temp": 11.6,
-                    "humidity": 89,
-                    "windSpeed": 1.92,
-                    "windGust": 2.62,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "light wind"
-                },
-                "1754463600": {
-                    "temp": 14.3,
-                    "humidity": 83,
-                    "windSpeed": 3.11,
-                    "windGust": 3.96,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754467200": {
-                    "temp": 16.0,
-                    "humidity": 75,
-                    "windSpeed": 4.5,
-                    "windGust": 4.76,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754470800": {
-                    "temp": 18.5,
-                    "humidity": 60,
-                    "windSpeed": 5.48,
-                    "windGust": 5.97,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754474400": {
-                    "temp": 20.3,
-                    "humidity": 52,
-                    "windSpeed": 6.51,
-                    "windGust": 7.36,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754478000": {
-                    "temp": 21.4,
-                    "humidity": 49,
-                    "windSpeed": 5.86,
-                    "windGust": 6.42,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754481600": {
-                    "temp": 22.5,
-                    "humidity": 46,
-                    "windSpeed": 7.02,
-                    "windGust": 8.5,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
-                "1754485200": {
-                    "temp": 22.8,
-                    "humidity": 43,
-                    "windSpeed": 7.78,
-                    "windGust": 9.31,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
-                "1754488800": {
-                    "temp": 22.6,
-                    "humidity": 44,
-                    "windSpeed": 10.45,
-                    "windGust": 10.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
-                "1754492400": {
-                    "temp": 22.2,
-                    "humidity": 47,
-                    "windSpeed": 13.49,
-                    "windGust": 10.22,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
-                "1754496000": {
-                    "temp": 21.6,
-                    "humidity": 51,
-                    "windSpeed": 12.86,
-                    "windGust": 11.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
-                "1754499600": {
-                    "temp": 20.6,
-                    "humidity": 54,
-                    "windSpeed": 10.69,
-                    "windGust": 11.48,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
-                "1754503200": {
-                    "temp": 19.2,
-                    "humidity": 57,
-                    "windSpeed": 9.28,
-                    "windGust": 10.31,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
-                "1754506800": {
-                    "temp": 18.0,
-                    "humidity": 61,
-                    "windSpeed": 6.49,
-                    "windGust": 11.12,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754510400": {
-                    "temp": 17.3,
-                    "humidity": 65,
-                    "windSpeed": 6.51,
-                    "windGust": 11.83,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "gentle wind"
-                },
-                "1754514000": {
-                    "temp": 16.4,
-                    "humidity": 69,
-                    "windSpeed": 7.92,
-                    "windGust": 15.84,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
-                "1754517600": {
-                    "temp": 15.4,
-                    "humidity": 74,
-                    "windSpeed": 7.34,
-                    "windGust": 14.97,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": null,
-                    "wind": "breezy"
-                },
                 "1754521200": {
                     "temp": 14.3,
                     "humidity": 79,
@@ -17100,8 +16298,8 @@
                     "wind": "gentle wind"
                 },
                 "1754611200": {
-                    "temp": 15.5,
-                    "humidity": 86,
+                    "temp": 15.2,
+                    "humidity": 84,
                     "windSpeed": 6.71,
                     "windGust": 19.69,
                     "pop": 0,
@@ -17111,8 +16309,8 @@
                     "wind": "gentle wind"
                 },
                 "1754614800": {
-                    "temp": 15.4,
-                    "humidity": 88,
+                    "temp": 15.3,
+                    "humidity": 86,
                     "windSpeed": 6.53,
                     "windGust": 18.43,
                     "pop": 0,
@@ -17123,7 +16321,7 @@
                 },
                 "1754618400": {
                     "temp": 15.2,
-                    "humidity": 90,
+                    "humidity": 88,
                     "windSpeed": 6.29,
                     "windGust": 18.54,
                     "pop": 0,
@@ -17133,8 +16331,8 @@
                     "wind": "gentle wind"
                 },
                 "1754622000": {
-                    "temp": 14.9,
-                    "humidity": 92,
+                    "temp": 15.0,
+                    "humidity": 90,
                     "windSpeed": 6.29,
                     "windGust": 19.17,
                     "pop": 0,
@@ -17144,8 +16342,8 @@
                     "wind": "gentle wind"
                 },
                 "1754625600": {
-                    "temp": 13.8,
-                    "humidity": 96,
+                    "temp": 14.3,
+                    "humidity": 92,
                     "windSpeed": 5.91,
                     "windGust": 18.7,
                     "pop": 0,
@@ -17606,7 +16804,15 @@
                     "wind": "breezy"
                 },
                 "1754776800": {
-                    "icon": null
+                    "temp": 12.8,
+                    "humidity": 96,
+                    "windSpeed": 6.71,
+                    "windGust": 17.72,
+                    "pop": 0,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": null,
+                    "wind": "gentle wind"
                 },
                 "1754780400": {
                     "icon": null
@@ -18399,33 +17605,93 @@
                 },
                 "1755727200": {
                     "icon": null
+                },
+                "1755730800": {
+                    "icon": null
+                },
+                "1755734400": {
+                    "icon": null
+                },
+                "1755738000": {
+                    "icon": null
+                },
+                "1755741600": {
+                    "icon": null
+                },
+                "1755745200": {
+                    "icon": null
+                },
+                "1755748800": {
+                    "icon": null
+                },
+                "1755752400": {
+                    "icon": null
+                },
+                "1755756000": {
+                    "icon": null
+                },
+                "1755759600": {
+                    "icon": null
+                },
+                "1755763200": {
+                    "icon": null
+                },
+                "1755766800": {
+                    "icon": null
+                },
+                "1755770400": {
+                    "icon": null
+                },
+                "1755774000": {
+                    "icon": null
+                },
+                "1755777600": {
+                    "icon": null
+                },
+                "1755781200": {
+                    "icon": null
+                },
+                "1755784800": {
+                    "icon": null
+                },
+                "1755788400": {
+                    "icon": null
+                },
+                "1755792000": {
+                    "icon": null
+                },
+                "1755795600": {
+                    "icon": null
+                },
+                "1755799200": {
+                    "icon": null
+                },
+                "1755802800": {
+                    "icon": null
+                },
+                "1755806400": {
+                    "icon": null
+                },
+                "1755810000": {
+                    "icon": null
+                },
+                "1755813600": {
+                    "icon": null
                 }
             }
         },
         "pirate": {
             "daily": {
-                "1754352000": {
-                    "min": 11.3,
-                    "max": 11.3,
-                    "temp": 11.3,
-                    "humidity": 77,
-                    "windSpeed": 5.14,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
                 "1754438400": {
-                    "min": 10.9,
-                    "max": 23.2,
-                    "temp": 16.6,
-                    "humidity": 59,
+                    "min": 14.6,
+                    "max": 14.6,
+                    "temp": 14.6,
+                    "humidity": 70,
                     "windSpeed": 16.55,
                     "pop": 0,
                     "qpf": null,
                     "qsf": null,
-                    "icon": "overcast",
+                    "icon": "mostly cloudy",
                     "wind": "breezy"
                 },
                 "1754524800": {
@@ -18515,8 +17781,8 @@
                 "1755129600": {
                     "min": 14.9,
                     "max": 28.2,
-                    "temp": 21.0,
-                    "humidity": 58,
+                    "temp": 20.8,
+                    "humidity": 59,
                     "windSpeed": 13.31,
                     "pop": 17,
                     "qpf": null,
@@ -18541,273 +17807,12 @@
                 },
                 "1755648000": {
                     "icon": null
+                },
+                "1755734400": {
+                    "icon": null
                 }
             },
             "hourly": {
-                "1754434800": {
-                    "temp": 11.3,
-                    "humidity": 77,
-                    "windSpeed": 5.1,
-                    "windGust": 5.14,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754438400": {
-                    "temp": 11.0,
-                    "humidity": 80,
-                    "windSpeed": 4.18,
-                    "windGust": 4.29,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754442000": {
-                    "temp": 10.9,
-                    "humidity": 79,
-                    "windSpeed": 3.79,
-                    "windGust": 3.88,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754445600": {
-                    "temp": 11.4,
-                    "humidity": 76,
-                    "windSpeed": 3.11,
-                    "windGust": 3.13,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754449200": {
-                    "temp": 11.2,
-                    "humidity": 76,
-                    "windSpeed": 1.13,
-                    "windGust": 1.12,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754452800": {
-                    "temp": 11.4,
-                    "humidity": 77,
-                    "windSpeed": 2.37,
-                    "windGust": 2.5,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754456400": {
-                    "temp": 11.9,
-                    "humidity": 76,
-                    "windSpeed": 1.79,
-                    "windGust": 1.87,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754460000": {
-                    "temp": 13.3,
-                    "humidity": 74,
-                    "windSpeed": 2.21,
-                    "windGust": 2.95,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "light wind"
-                },
-                "1754463600": {
-                    "temp": 15.0,
-                    "humidity": 69,
-                    "windSpeed": 3.27,
-                    "windGust": 4.29,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754467200": {
-                    "temp": 16.9,
-                    "humidity": 60,
-                    "windSpeed": 4.52,
-                    "windGust": 4.92,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "gentle wind"
-                },
-                "1754470800": {
-                    "temp": 18.4,
-                    "humidity": 52,
-                    "windSpeed": 5.52,
-                    "windGust": 6.05,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754474400": {
-                    "temp": 19.7,
-                    "humidity": 47,
-                    "windSpeed": 6.54,
-                    "windGust": 7.39,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754478000": {
-                    "temp": 20.4,
-                    "humidity": 44,
-                    "windSpeed": 5.91,
-                    "windGust": 6.52,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754481600": {
-                    "temp": 21.4,
-                    "humidity": 40,
-                    "windSpeed": 6.43,
-                    "windGust": 8.29,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754485200": {
-                    "temp": 22.8,
-                    "humidity": 36,
-                    "windSpeed": 7.2,
-                    "windGust": 9.17,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754488800": {
-                    "temp": 23.2,
-                    "humidity": 34,
-                    "windSpeed": 9.75,
-                    "windGust": 9.84,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754492400": {
-                    "temp": 22.5,
-                    "humidity": 36,
-                    "windSpeed": 12.96,
-                    "windGust": 10.14,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754496000": {
-                    "temp": 20.5,
-                    "humidity": 42,
-                    "windSpeed": 12.49,
-                    "windGust": 11.66,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754499600": {
-                    "temp": 19.3,
-                    "humidity": 45,
-                    "windSpeed": 10.5,
-                    "windGust": 11.63,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754503200": {
-                    "temp": 19.1,
-                    "humidity": 46,
-                    "windSpeed": 9.45,
-                    "windGust": 9.44,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754506800": {
-                    "temp": 17.6,
-                    "humidity": 53,
-                    "windSpeed": 6.53,
-                    "windGust": 11.41,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754510400": {
-                    "temp": 16.1,
-                    "humidity": 60,
-                    "windSpeed": 6.33,
-                    "windGust": 11.62,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "gentle wind"
-                },
-                "1754514000": {
-                    "temp": 15.2,
-                    "humidity": 66,
-                    "windSpeed": 8.06,
-                    "windGust": 16.09,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
-                "1754517600": {
-                    "temp": 14.7,
-                    "humidity": 69,
-                    "windSpeed": 7.42,
-                    "windGust": 14.97,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "overcast",
-                    "wind": "breezy"
-                },
                 "1754521200": {
                     "temp": 14.6,
                     "humidity": 70,
@@ -20921,7 +19926,15 @@
                     "wind": "gentle wind"
                 },
                 "1755212400": {
-                    "icon": null
+                    "temp": 15.7,
+                    "humidity": 87,
+                    "windSpeed": 5.32,
+                    "windGust": 6.63,
+                    "pop": 8,
+                    "qpf": null,
+                    "qsf": null,
+                    "icon": "clear skies",
+                    "wind": "gentle wind"
                 },
                 "1755216000": {
                     "icon": null
@@ -21351,33 +20364,93 @@
                 },
                 "1755727200": {
                     "icon": null
+                },
+                "1755730800": {
+                    "icon": null
+                },
+                "1755734400": {
+                    "icon": null
+                },
+                "1755738000": {
+                    "icon": null
+                },
+                "1755741600": {
+                    "icon": null
+                },
+                "1755745200": {
+                    "icon": null
+                },
+                "1755748800": {
+                    "icon": null
+                },
+                "1755752400": {
+                    "icon": null
+                },
+                "1755756000": {
+                    "icon": null
+                },
+                "1755759600": {
+                    "icon": null
+                },
+                "1755763200": {
+                    "icon": null
+                },
+                "1755766800": {
+                    "icon": null
+                },
+                "1755770400": {
+                    "icon": null
+                },
+                "1755774000": {
+                    "icon": null
+                },
+                "1755777600": {
+                    "icon": null
+                },
+                "1755781200": {
+                    "icon": null
+                },
+                "1755784800": {
+                    "icon": null
+                },
+                "1755788400": {
+                    "icon": null
+                },
+                "1755792000": {
+                    "icon": null
+                },
+                "1755795600": {
+                    "icon": null
+                },
+                "1755799200": {
+                    "icon": null
+                },
+                "1755802800": {
+                    "icon": null
+                },
+                "1755806400": {
+                    "icon": null
+                },
+                "1755810000": {
+                    "icon": null
+                },
+                "1755813600": {
+                    "icon": null
                 }
             }
         },
         "tomorrowio": {
             "daily": {
-                "1754352000": {
-                    "min": 12.6,
-                    "max": 12.6,
-                    "temp": 12.6,
-                    "humidity": 73,
-                    "windSpeed": 7.6,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "breezy"
-                },
                 "1754438400": {
-                    "min": 9.1,
-                    "max": 22.9,
-                    "temp": 16.1,
-                    "humidity": 64,
-                    "windSpeed": 15.2,
+                    "min": 13.9,
+                    "max": 13.9,
+                    "temp": 13.9,
+                    "humidity": 78,
+                    "windSpeed": 10.9,
                     "pop": 0,
                     "qpf": null,
                     "qsf": null,
-                    "icon": "mostly cloudy",
+                    "icon": "clear skies",
                     "wind": "breezy"
                 },
                 "1754524800": {
@@ -21475,273 +20548,12 @@
                 },
                 "1755648000": {
                     "icon": null
+                },
+                "1755734400": {
+                    "icon": null
                 }
             },
             "hourly": {
-                "1754434800": {
-                    "temp": 12.6,
-                    "humidity": 73,
-                    "windSpeed": 4.9,
-                    "windGust": 7.6,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754438400": {
-                    "temp": 11.7,
-                    "humidity": 80,
-                    "windSpeed": 1.5,
-                    "windGust": 2.2,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754442000": {
-                    "temp": 11.2,
-                    "humidity": 82,
-                    "windSpeed": 3.2,
-                    "windGust": 4.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754445600": {
-                    "temp": 10.9,
-                    "humidity": 83,
-                    "windSpeed": 3.6,
-                    "windGust": 5.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754449200": {
-                    "temp": 9.1,
-                    "humidity": 82,
-                    "windSpeed": 0.5,
-                    "windGust": 0.7,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754452800": {
-                    "temp": 11.1,
-                    "humidity": 81,
-                    "windSpeed": 2.1,
-                    "windGust": 3.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754456400": {
-                    "temp": 10.9,
-                    "humidity": 82,
-                    "windSpeed": 2.8,
-                    "windGust": 4.1,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754460000": {
-                    "temp": 10.3,
-                    "humidity": 85,
-                    "windSpeed": 1.6,
-                    "windGust": 2.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754463600": {
-                    "temp": 14.7,
-                    "humidity": 69,
-                    "windSpeed": 3.0,
-                    "windGust": 6.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "gentle wind"
-                },
-                "1754467200": {
-                    "temp": 13.3,
-                    "humidity": 70,
-                    "windSpeed": 0.9,
-                    "windGust": 2.6,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "light wind"
-                },
-                "1754470800": {
-                    "temp": 16.3,
-                    "humidity": 64,
-                    "windSpeed": 1.5,
-                    "windGust": 3.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "clear skies",
-                    "wind": "light wind"
-                },
-                "1754474400": {
-                    "temp": 19.1,
-                    "humidity": 57,
-                    "windSpeed": 1.6,
-                    "windGust": 4.0,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754478000": {
-                    "temp": 19.7,
-                    "humidity": 45,
-                    "windSpeed": 5.6,
-                    "windGust": 13.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754481600": {
-                    "temp": 21.2,
-                    "humidity": 47,
-                    "windSpeed": 2.1,
-                    "windGust": 4.7,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754485200": {
-                    "temp": 20.8,
-                    "humidity": 41,
-                    "windSpeed": 6.0,
-                    "windGust": 14.2,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754488800": {
-                    "temp": 21.1,
-                    "humidity": 41,
-                    "windSpeed": 4.5,
-                    "windGust": 11.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754492400": {
-                    "temp": 22.9,
-                    "humidity": 42,
-                    "windSpeed": 2.5,
-                    "windGust": 4.9,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754496000": {
-                    "temp": 20.7,
-                    "humidity": 44,
-                    "windSpeed": 6.9,
-                    "windGust": 13.3,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754499600": {
-                    "temp": 19.9,
-                    "humidity": 46,
-                    "windSpeed": 8.2,
-                    "windGust": 15.2,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "breezy"
-                },
-                "1754503200": {
-                    "temp": 20.4,
-                    "humidity": 53,
-                    "windSpeed": 3.5,
-                    "windGust": 5.7,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754506800": {
-                    "temp": 17.3,
-                    "humidity": 60,
-                    "windSpeed": 7.9,
-                    "windGust": 12.7,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "breezy"
-                },
-                "1754510400": {
-                    "temp": 16.6,
-                    "humidity": 63,
-                    "windSpeed": 6.6,
-                    "windGust": 10.8,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "gentle wind"
-                },
-                "1754514000": {
-                    "temp": 17.0,
-                    "humidity": 62,
-                    "windSpeed": 2.8,
-                    "windGust": 4.6,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "mostly cloudy",
-                    "wind": "light wind"
-                },
-                "1754517600": {
-                    "temp": 15.6,
-                    "humidity": 68,
-                    "windSpeed": 7.6,
-                    "windGust": 12.4,
-                    "pop": 0,
-                    "qpf": null,
-                    "qsf": null,
-                    "icon": "few clouds",
-                    "wind": "breezy"
-                },
                 "1754521200": {
                     "temp": 13.9,
                     "humidity": 78,
@@ -23884,6 +22696,78 @@
                     "icon": null
                 },
                 "1755727200": {
+                    "icon": null
+                },
+                "1755730800": {
+                    "icon": null
+                },
+                "1755734400": {
+                    "icon": null
+                },
+                "1755738000": {
+                    "icon": null
+                },
+                "1755741600": {
+                    "icon": null
+                },
+                "1755745200": {
+                    "icon": null
+                },
+                "1755748800": {
+                    "icon": null
+                },
+                "1755752400": {
+                    "icon": null
+                },
+                "1755756000": {
+                    "icon": null
+                },
+                "1755759600": {
+                    "icon": null
+                },
+                "1755763200": {
+                    "icon": null
+                },
+                "1755766800": {
+                    "icon": null
+                },
+                "1755770400": {
+                    "icon": null
+                },
+                "1755774000": {
+                    "icon": null
+                },
+                "1755777600": {
+                    "icon": null
+                },
+                "1755781200": {
+                    "icon": null
+                },
+                "1755784800": {
+                    "icon": null
+                },
+                "1755788400": {
+                    "icon": null
+                },
+                "1755792000": {
+                    "icon": null
+                },
+                "1755795600": {
+                    "icon": null
+                },
+                "1755799200": {
+                    "icon": null
+                },
+                "1755802800": {
+                    "icon": null
+                },
+                "1755806400": {
+                    "icon": null
+                },
+                "1755810000": {
+                    "icon": null
+                },
+                "1755813600": {
                     "icon": null
                 }
             }

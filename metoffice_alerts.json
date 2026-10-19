@@ -7,6 +7,28 @@
             "link": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?date=2026-10-22&id=91b2fc98-1e13-4c64-8443-c1de401b2e8c&referrer=rss"
         }
     ],
-    "heat": null,
-    "cold": null
+    "heat": {
+        "status": "Green",
+        "risk_score": 1,
+        "text": "<p>Little impact observed on health, healthcare services and social care provision. Business as usual.</p>",
+        "likelihood": "Very low",
+        "impact": "Very low",
+        "period_start": 1786784400,
+        "period_end": 1787040000,
+        "refresh_date": 1787040000,
+        "geography_name": "South West",
+        "geography_code": "E12000009"
+    },
+    "cold": {
+        "status": "Green",
+        "risk_score": 1,
+        "text": "<p>Little impact observed on health, healthcare services and social care provision. Business as usual.</p>",
+        "likelihood": "Very low",
+        "impact": "Very low",
+        "period_start": 1771351200,
+        "period_end": 1771610400,
+        "refresh_date": 1771610400,
+        "geography_name": "South West",
+        "geography_code": "E12000009"
+    }
 }
